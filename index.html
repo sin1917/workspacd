@@ -4,21 +4,25 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="./data/kcShipData.js" charset="utf-8"></script>
+    <script type="text/javascript" src="./js/script.js"></script>
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="all">
     <meta name="description" content="艦これ cond値をブラウザ上で確認する(試作)ツール. 第1～第4艦隊に編成してある艦娘のコンディション値を表示します.">
     <title>cond値チェッカー</title>
 </head>
 <body>
     <h1>cond値チェッカー(試作中)</h1>
-    <input type="text" id="inputBox">
-    <input type="button" onclick="func1()" value="反映">
-    <input type="button" onclick="ClearTextbox('inputBox')" value="クリア">
-    <a href="https://github.com/sin1917/kc_cond" target=”_blank”>使い方</a>
-    <div id="dist">
+    <div class="content-box">
+        <textarea id="inputBox" spellcheck="false" placeholder="ここに張り付け"></textarea>
+        <br>
+        <input type="button" onclick="func1('inputBox','dest')" value="反映">
+        <input type="button" onclick="ClearTextbox('inputBox')" value="クリア">    
+        <a href="https://github.com/sin1917/kc_cond" target=”_blank”>使い方</a>
+    </div>
+    <div class="content-box" id="dest">
         この下に表示
     </div>
 
 
 </body>
-<script src="./data/kcShipData.js" charset="utf-8"></script>
-<script src="./js/script.js"></script>
 </html>
