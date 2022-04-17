@@ -20,7 +20,7 @@ function func1(inputBox, destElement) {
     ClearElementContents(destElement);
     func3(jsonData, destElement);
 
-    ClearTextbox(inputBox);
+    
 }
 
 function CheckInputText(inputJson) {
@@ -149,4 +149,9 @@ function ClearElementContents(elementId) {
 function ClearTextbox(id) {
     var textbox = document.getElementById(id);
     textbox.value = "";
+}
+//
+function CheckRadioElement(elementId){
+    var radio = document.getElementById(elementId);
+    radio.checked = true;
 }

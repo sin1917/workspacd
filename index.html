@@ -10,19 +10,58 @@
     <meta name="description" content="艦これ cond値をブラウザ上で確認する(試作)ツール. 第1～第4艦隊に編成してある艦娘のコンディション値を表示します.">
     <title>cond値チェッカー</title>
 </head>
+
 <body>
-    <h1>cond値チェッカー(試作中)</h1>
+    <h1 style="text-align: center;">艦これ cond値チェッカー<br>(試作中)</h1>
     <div class="content-box">
         <textarea id="inputBox" spellcheck="false" placeholder="ここに張り付け"></textarea>
-        <br>
-        <input type="button" onclick="func1('inputBox','dest')" value="反映">
-        <input type="button" onclick="ClearTextbox('inputBox')" value="クリア">    
-        <a href="https://github.com/sin1917/kc_cond" target=”_blank”>使い方</a>
+        <div style="text-align: center;">
+            <input type="button" onclick="func1('inputBox','dest');CheckRadioElement('sw-0')" value="反映">
+            <input type="button" onclick="ClearTextbox('inputBox')" value="クリア">
+            <!-- <a href="https://github.com/sin1917/kc_cond" target=”_blank”>使い方</a> -->
+        </div>
     </div>
-    <div class="content-box" id="dest">
-        この下に表示
+    <div class="switch-content content-box">
+        <input type="radio" name="menu-tab" id="sw-0" class="tab-switch">
+        <label for="sw-0" class="tab-label" checked="checked">反映結果</label>
+        <div class="tab-content" id="dest">
+            この下に表示
+        </div>
+        <input type="radio" name="menu-tab" id="sw-1" class="tab-switch">
+        <label for="sw-1" class="tab-label">使い方</label>
+        <div class="tab-content" id="help">
+            <div class="help-content-item">
+                <h2>艦これ cond値 確認ツール</h2>
+                <p>艦隊のコンディション値を確認できます</p>
+            </div>
+            <div class="help-content">
+                1.ブラウザで艦これを起動し開発者ツールを開きます。開発者ツールのネットワークタブを開いてください<br>
+                ※画面上で右クリックして '調査' や '検証' と書かれたヤツを選択orショートカットキー『Ctrl+Shift+i』で開けます<br>
+                <img src="./data/help_img1.png" class="help-img">
+            </div>
+            <div class="help-content">
+                2.この状態で「艦これ」内で母港画面に移動してください。様々なデータが読み込まれるはずです。<br>
+                一覧から「port」と書かれたオブジェクトを探して選択してください。フィルタ機能で絞り込むと見つけやすいです。<br>
+                (既に母港が表示されている場合は一度「出撃」などを選択し、別画面へ移動してから再び母港へ戻ってきてください。新しく読み込まれるはずです)<br>
+                <img src="./data/help_img2.png" class="help-img">
+            </div>
+            <div class="help-content">
+                3.portを選択したら右側にプレビューが表示されます、その中から"api_data"と書かれた部分を見つけてください。<br>
+                <img src="./data/help_img3.png" class="help-img">
+            </div>
+            <div class="help-content">
+                4."api_data"上で右クリックして「値をコピー」してください。<br>
+                あとはページトップに戻ってテキストボックスに貼り付け、反映をクリックして完了です。<br>
+                <img src="./data/help_img4.png" class="help-img">
+            </div>
+            <div class="help-content-item">
+                <a href="#" style="text-decoration: none;">
+                    <div class="back-to-top">ページトップへ戻る</div>
+                </a>
+            </div>
+        </div>
     </div>
-
 
 </body>
+
 </html>
