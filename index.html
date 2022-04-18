@@ -32,26 +32,27 @@
         <div class="tab-content" id="help">
             <div class="help-content-item">
                 <h2>艦これ cond値 確認ツール</h2>
-                <p>艦隊のコンディション値を確認できます</p>
+                <p>第1～第4艦隊に編成してある艦娘のcond値を確認できます。</p>
             </div>
             <div class="help-content">
-                1.ブラウザで艦これを起動し開発者ツールを開きます。開発者ツールのネットワークタブを開いてください<br>
-                ※画面上で右クリックして '調査' や '検証' と書かれたヤツを選択orショートカットキー『Ctrl+Shift+i』で開けます<br>
+                1.ブラウザで艦これを起動し開発者ツールを開きます。開発者ツールのネットワークタブを開いてください。<div style="line-height:0.7"><br /></div>
+                (開発者ツールは、画面上で右クリックして '調査' や '検証' と書かれたヤツを選択orショートカットキー『Ctrl+Shift+i』で開けます)<br>
                 <img src="./data/help_img1.png" class="help-img">
             </div>
             <div class="help-content">
-                2.この状態で「艦これ」内で母港画面に移動してください。様々なデータが読み込まれるはずです。<br>
-                一覧から「port」と書かれたオブジェクトを探して選択してください。フィルタ機能で絞り込むと見つけやすいです。<br>
+                2.開発者ツールを開いた状態で「艦これ」内で母港画面に移動してください、読み込まれたデータが表示されていきます。<div style="line-height:0.7"><br /></div>
+                一覧から「port」と書かれたものを探して選択してください。フィルタ機能で絞り込むと見つけやすいです。<div style="line-height:0.7"><br /></div>
                 (既に母港が表示されている場合は一度「出撃」などを選択し、別画面へ移動してから再び母港へ戻ってきてください。新しく読み込まれるはずです)<br>
                 <img src="./data/help_img2.png" class="help-img">
             </div>
             <div class="help-content">
-                3.portを選択したら右側にプレビューが表示されます、その中から"api_data"と書かれた部分を見つけてください。<br>
+                3.portを選択したら右側にプレビューが表示されます、その中から"api_data"と書かれた部分を見つけてください。<div style="line-height:0.7"><br /></div>
+                ここに格納されたデータがcond値の取得に必要となります。<br>
                 <img src="./data/help_img3.png" class="help-img">
             </div>
             <div class="help-content">
-                4."api_data"上で右クリックして「値をコピー」してください。<br>
-                あとはページトップに戻ってテキストボックスに貼り付け、反映をクリックして完了です。<br>
+                4."api_data"上で右クリックして「値をコピー」してください。<div style="line-height:0.7"><br /></div>
+                あとはページトップに戻ってテキストボックスに貼り付け、反映をクリックすればOKです。<br>
                 <img src="./data/help_img4.png" class="help-img">
             </div>
             <div class="help-content-item">

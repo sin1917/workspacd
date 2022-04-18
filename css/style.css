@@ -51,8 +51,15 @@ body{
 .help-content{
     width: 80%;
     margin: 1em auto 1em auto;
-    padding: 0.5em 2%;
-    border: 1px solid gray;
+    padding: 0.8em 2% 0.3em 2%;
+    border: 0.6em solid rgb(195, 119, 31);
+    border-radius: 3px;
+    background-color: rgb(2, 104, 2);
+    box-shadow: 0 0 5px gray;
+    color: white;
+    font-family: 'メイリオ';
+
+    box-sizing: border-box;
 }
 .help-img{
     width: 100%;
@@ -78,6 +85,10 @@ body{
 
     resize: none;
     box-sizing: border-box;
+}
+
+#dest{
+    min-height: 500px;
 }
 
 .fleet-data{
