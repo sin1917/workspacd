@@ -20,7 +20,7 @@ function func1(inputBox, destElement) {
     ClearElementContents(destElement);
     func3(jsonData, destElement);
 
-    
+
 }
 
 function CheckInputText(inputJson) {
@@ -72,6 +72,13 @@ function func4(uniqueID, apiShip){
     var Item = document.createElement("div");
     Item.classList.add("fleet-ship-data");
 
+    var shipLv = document.createElement("div");
+    shipLv.classList.add("fleet-ship-lv");
+    var shipName = document.createElement("div");
+    shipName.classList.add("fleet-ship-name");
+    var shipCond = document.createElement("div");
+    shipCond.classList.add("fleet-ship-cond");
+
     if (uniqueID != -1) {
         var uniqueData = apiShip.find((v) => v.api_id == uniqueID);
 
@@ -79,24 +86,18 @@ function func4(uniqueID, apiShip){
         const cnd = uniqueData.api_cond;
         const name = GetShipNameById(uniqueData.api_ship_id);
 
-        var shipLv = document.createElement("div");
-        shipLv.classList.add("fleet-ship-lv");
-        shipLv.textContent = "lv." + lv;
-        var shipName = document.createElement("div");
-        shipName.classList.add("fleet-ship-name");
+        shipLv.textContent = "Lv." + lv;
         shipName.textContent = name;
-        var shipCond = document.createElement("div");
-        shipCond.classList.add("fleet-ship-cond");
         shipCond.textContent = "cond:" + cnd;
 
-        Item.appendChild(shipLv);
-        Item.appendChild(shipName);
-        Item.appendChild(shipCond);
-
-        //Item.textContent = "lv." + lv + " / " + name + " / " + "cond:" + cnd;
     } else {
-        Item.textContent = "-";
+        shipLv.textContent = "Lv."+" - ";
+        shipName.textContent = "";
+        shipCond.textContent = "cond:" + " - ";
     }
+    Item.appendChild(shipLv);
+    Item.appendChild(shipName);
+    Item.appendChild(shipCond);
 
     return Item;
 }
