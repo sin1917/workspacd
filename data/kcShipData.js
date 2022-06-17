@@ -1,5 +1,5 @@
 //==============
-// 2022.04.14
+// 2022.06.18
 //==============
 
 api_mst_ship = [
@@ -8526,8 +8526,8 @@ api_mst_ship = [
     "api_yomi": "やまと",
     "api_stype": 9,
     "api_ctype": 37,
-    "api_afterlv": 0,
-    "api_aftershipid": "0",
+    "api_afterlv": 88,
+    "api_aftershipid": "911",
     "api_taik": [
       96,
       108
@@ -8577,8 +8577,8 @@ api_mst_ship = [
     ],
     "api_backs": 8,
     "api_getmes": "<br>",
-    "api_afterfuel": 0,
-    "api_afterbull": 0,
+    "api_afterfuel": 9800,
+    "api_afterbull": 9900,
     "api_fuel_max": 250,
     "api_bull_max": 325,
     "api_voicef": 3
@@ -13076,8 +13076,8 @@ api_mst_ship = [
     "api_yomi": "いそなみ",
     "api_stype": 2,
     "api_ctype": 12,
-    "api_afterlv": 0,
-    "api_aftershipid": "0",
+    "api_afterlv": 82,
+    "api_aftershipid": "666",
     "api_taik": [
       30,
       49
@@ -13127,11 +13127,11 @@ api_mst_ship = [
     ],
     "api_backs": 4,
     "api_getmes": "<br>",
-    "api_afterfuel": 0,
-    "api_afterbull": 0,
+    "api_afterfuel": 410,
+    "api_afterbull": 340,
     "api_fuel_max": 15,
     "api_bull_max": 20,
-    "api_voicef": 0
+    "api_voicef": 1
   },
   {
     "api_id": 207,
@@ -41244,6 +41244,71 @@ api_mst_ship = [
     "api_voicef": 1
   },
   {
+    "api_id": 666,
+    "api_sortno": 466,
+    "api_sort_id": 14096,
+    "api_name": "磯波改二",
+    "api_yomi": "いそなみ",
+    "api_stype": 2,
+    "api_ctype": 12,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_taik": [
+      30,
+      49
+    ],
+    "api_souk": [
+      14,
+      50
+    ],
+    "api_houg": [
+      13,
+      58
+    ],
+    "api_raig": [
+      28,
+      84
+    ],
+    "api_tyku": [
+      29,
+      76
+    ],
+    "api_luck": [
+      15,
+      79
+    ],
+    "api_soku": 10,
+    "api_leng": 1,
+    "api_slot_num": 3,
+    "api_maxeq": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "api_buildtime": 20,
+    "api_broken": [
+      1,
+      2,
+      10,
+      0
+    ],
+    "api_powup": [
+      1,
+      2,
+      2,
+      1
+    ],
+    "api_backs": 7,
+    "api_getmes": "<br>",
+    "api_afterfuel": 0,
+    "api_afterbull": 0,
+    "api_fuel_max": 15,
+    "api_bull_max": 20,
+    "api_voicef": 1
+  },
+  {
     "api_id": 667,
     "api_sortno": 467,
     "api_sort_id": 15147,
@@ -44107,6 +44172,136 @@ api_mst_ship = [
     "api_voicef": 3
   },
   {
+    "api_id": 719,
+    "api_sortno": 1719,
+    "api_sort_id": 22292,
+    "api_name": "伊201改",
+    "api_yomi": "い201",
+    "api_stype": 13,
+    "api_ctype": 109,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_taik": [
+      13,
+      23
+    ],
+    "api_souk": [
+      4,
+      18
+    ],
+    "api_houg": [
+      1,
+      4
+    ],
+    "api_raig": [
+      22,
+      68
+    ],
+    "api_tyku": [
+      0,
+      5
+    ],
+    "api_luck": [
+      24,
+      87
+    ],
+    "api_soku": 5,
+    "api_leng": 1,
+    "api_slot_num": 2,
+    "api_maxeq": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "api_buildtime": 22,
+    "api_broken": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "api_powup": [
+      0,
+      2,
+      0,
+      0
+    ],
+    "api_backs": 7,
+    "api_getmes": "<br>",
+    "api_afterfuel": 0,
+    "api_afterbull": 0,
+    "api_fuel_max": 20,
+    "api_bull_max": 20,
+    "api_voicef": 3
+  },
+  {
+    "api_id": 720,
+    "api_sortno": 1720,
+    "api_sort_id": 16052,
+    "api_name": "早潮改",
+    "api_yomi": "はやしお",
+    "api_stype": 2,
+    "api_ctype": 30,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_taik": [
+      32,
+      49
+    ],
+    "api_souk": [
+      14,
+      49
+    ],
+    "api_houg": [
+      13,
+      48
+    ],
+    "api_raig": [
+      28,
+      79
+    ],
+    "api_tyku": [
+      14,
+      50
+    ],
+    "api_luck": [
+      12,
+      63
+    ],
+    "api_soku": 10,
+    "api_leng": 1,
+    "api_slot_num": 3,
+    "api_maxeq": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "api_buildtime": 24,
+    "api_broken": [
+      1,
+      2,
+      10,
+      0
+    ],
+    "api_powup": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "api_backs": 6,
+    "api_getmes": "<br>",
+    "api_afterfuel": 0,
+    "api_afterbull": 0,
+    "api_fuel_max": 15,
+    "api_bull_max": 20,
+    "api_voicef": 3
+  },
+  {
     "api_id": 877,
     "api_sortno": 477,
     "api_sort_id": 31011,
@@ -44300,6 +44495,71 @@ api_mst_ship = [
     "api_fuel_max": 85,
     "api_bull_max": 115,
     "api_voicef": 3
+  },
+  {
+    "api_id": 881,
+    "api_sortno": 481,
+    "api_sort_id": 22291,
+    "api_name": "伊201",
+    "api_yomi": "い201",
+    "api_stype": 13,
+    "api_ctype": 109,
+    "api_afterlv": 55,
+    "api_aftershipid": "719",
+    "api_taik": [
+      12,
+      22
+    ],
+    "api_souk": [
+      4,
+      16
+    ],
+    "api_houg": [
+      1,
+      3
+    ],
+    "api_raig": [
+      20,
+      63
+    ],
+    "api_tyku": [
+      0,
+      5
+    ],
+    "api_luck": [
+      24,
+      79
+    ],
+    "api_soku": 5,
+    "api_leng": 1,
+    "api_slot_num": 1,
+    "api_maxeq": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "api_buildtime": 22,
+    "api_broken": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "api_powup": [
+      0,
+      2,
+      0,
+      0
+    ],
+    "api_backs": 6,
+    "api_getmes": "私が潜高型の長女、伊２０１よ。妹がお世話になって<br>いるようね。私のことは…そう、フレイでいいわ。<br>提督、やってみましょう？",
+    "api_afterfuel": 150,
+    "api_afterbull": 250,
+    "api_fuel_max": 15,
+    "api_bull_max": 15,
+    "api_voicef": 1
   },
   {
     "api_id": 882,
@@ -44565,6 +44825,71 @@ api_mst_ship = [
     "api_afterbull": 1800,
     "api_fuel_max": 65,
     "api_bull_max": 55,
+    "api_voicef": 1
+  },
+  {
+    "api_id": 886,
+    "api_sortno": 486,
+    "api_sort_id": 16051,
+    "api_name": "早潮",
+    "api_yomi": "はやしお",
+    "api_stype": 2,
+    "api_ctype": 30,
+    "api_afterlv": 37,
+    "api_aftershipid": "720",
+    "api_taik": [
+      16,
+      34
+    ],
+    "api_souk": [
+      6,
+      19
+    ],
+    "api_houg": [
+      10,
+      29
+    ],
+    "api_raig": [
+      24,
+      69
+    ],
+    "api_tyku": [
+      8,
+      38
+    ],
+    "api_luck": [
+      9,
+      48
+    ],
+    "api_soku": 10,
+    "api_leng": 1,
+    "api_slot_num": 2,
+    "api_maxeq": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "api_buildtime": 24,
+    "api_broken": [
+      1,
+      1,
+      6,
+      0
+    ],
+    "api_powup": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "api_backs": 5,
+    "api_getmes": "はい！　あたしが陽炎型駆逐艦五番艦、早潮！<br>浦賀生まれ！　提督！　よろしくね！<br>ねえ、提督ってば！　聞いてる？",
+    "api_afterfuel": 110,
+    "api_afterbull": 190,
+    "api_fuel_max": 15,
+    "api_bull_max": 20,
     "api_voicef": 1
   },
   {
@@ -45029,6 +45354,71 @@ api_mst_ship = [
     "api_voicef": 3
   },
   {
+    "api_id": 905,
+    "api_sortno": 505,
+    "api_sort_id": 21051,
+    "api_name": "倉橋",
+    "api_yomi": "くらはし",
+    "api_stype": 1,
+    "api_ctype": 94,
+    "api_afterlv": 45,
+    "api_aftershipid": "910",
+    "api_taik": [
+      9,
+      18
+    ],
+    "api_souk": [
+      4,
+      16
+    ],
+    "api_houg": [
+      4,
+      17
+    ],
+    "api_raig": [
+      0,
+      0
+    ],
+    "api_tyku": [
+      9,
+      36
+    ],
+    "api_luck": [
+      18,
+      78
+    ],
+    "api_soku": 5,
+    "api_leng": 1,
+    "api_slot_num": 2,
+    "api_maxeq": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "api_buildtime": 14,
+    "api_broken": [
+      1,
+      1,
+      2,
+      0
+    ],
+    "api_powup": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "api_backs": 4,
+    "api_getmes": "提督、海防艦、倉橋です。<br>御蔵型の五番艦です。ヒ船団、そして台湾方面の<br>護衛、頑張りました！　はい！　力の限り！",
+    "api_afterfuel": 90,
+    "api_afterbull": 175,
+    "api_fuel_max": 10,
+    "api_bull_max": 10,
+    "api_voicef": 1
+  },
+  {
     "api_id": 908,
     "api_sortno": 508,
     "api_sort_id": 14157,
@@ -45091,6 +45481,331 @@ api_mst_ship = [
     "api_afterbull": 480,
     "api_fuel_max": 15,
     "api_bull_max": 20,
+    "api_voicef": 3
+  },
+  {
+    "api_id": 910,
+    "api_sortno": 510,
+    "api_sort_id": 21052,
+    "api_name": "倉橋改",
+    "api_yomi": "くらはし",
+    "api_stype": 1,
+    "api_ctype": 94,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_taik": [
+      17,
+      28
+    ],
+    "api_souk": [
+      7,
+      33
+    ],
+    "api_houg": [
+      5,
+      36
+    ],
+    "api_raig": [
+      0,
+      0
+    ],
+    "api_tyku": [
+      16,
+      60
+    ],
+    "api_luck": [
+      23,
+      93
+    ],
+    "api_soku": 5,
+    "api_leng": 1,
+    "api_slot_num": 3,
+    "api_maxeq": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "api_buildtime": 14,
+    "api_broken": [
+      1,
+      1,
+      2,
+      0
+    ],
+    "api_powup": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "api_backs": 5,
+    "api_getmes": "<br>",
+    "api_afterfuel": 0,
+    "api_afterbull": 0,
+    "api_fuel_max": 10,
+    "api_bull_max": 10,
+    "api_voicef": 1
+  },
+  {
+    "api_id": 911,
+    "api_sortno": 511,
+    "api_sort_id": 1116,
+    "api_name": "大和改二",
+    "api_yomi": "やまと",
+    "api_stype": 8,
+    "api_ctype": 37,
+    "api_afterlv": 93,
+    "api_aftershipid": "916",
+    "api_taik": [
+      98,
+      110
+    ],
+    "api_souk": [
+      92,
+      122
+    ],
+    "api_houg": [
+      100,
+      144
+    ],
+    "api_raig": [
+      0,
+      0
+    ],
+    "api_tyku": [
+      65,
+      108
+    ],
+    "api_luck": [
+      18,
+      108
+    ],
+    "api_soku": 10,
+    "api_leng": 4,
+    "api_slot_num": 5,
+    "api_maxeq": [
+      4,
+      4,
+      4,
+      8,
+      2
+    ],
+    "api_buildtime": 480,
+    "api_broken": [
+      40,
+      55,
+      115,
+      24
+    ],
+    "api_powup": [
+      7,
+      0,
+      4,
+      7
+    ],
+    "api_backs": 8,
+    "api_getmes": "<br>",
+    "api_afterfuel": 3300,
+    "api_afterbull": 3600,
+    "api_fuel_max": 290,
+    "api_bull_max": 350,
+    "api_voicef": 3
+  },
+  {
+    "api_id": 913,
+    "api_sortno": 513,
+    "api_sort_id": 32021,
+    "api_name": "Maryland",
+    "api_yomi": "メリーランド",
+    "api_stype": 9,
+    "api_ctype": 93,
+    "api_afterlv": 45,
+    "api_aftershipid": "918",
+    "api_taik": [
+      77,
+      89
+    ],
+    "api_souk": [
+      73,
+      90
+    ],
+    "api_houg": [
+      78,
+      96
+    ],
+    "api_raig": [
+      0,
+      0
+    ],
+    "api_tyku": [
+      28,
+      90
+    ],
+    "api_luck": [
+      30,
+      99
+    ],
+    "api_soku": 5,
+    "api_leng": 3,
+    "api_slot_num": 4,
+    "api_maxeq": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "api_buildtime": 300,
+    "api_broken": [
+      10,
+      21,
+      39,
+      3
+    ],
+    "api_powup": [
+      5,
+      0,
+      1,
+      4
+    ],
+    "api_backs": 7,
+    "api_getmes": "Hi! Colorado級戦艦、二番艦、USS Marylandよ。<br>そうよ、Big7ってわけ！貴方がAdmiralなの？<br>ふうん……そっか…。",
+    "api_afterfuel": 2600,
+    "api_afterbull": 1600,
+    "api_fuel_max": 90,
+    "api_bull_max": 130,
+    "api_voicef": 1
+  },
+  {
+    "api_id": 916,
+    "api_sortno": 516,
+    "api_sort_id": 1117,
+    "api_name": "大和改二重",
+    "api_yomi": "やまと",
+    "api_stype": 10,
+    "api_ctype": 37,
+    "api_afterlv": 93,
+    "api_aftershipid": "911",
+    "api_taik": [
+      98,
+      110
+    ],
+    "api_souk": [
+      94,
+      128
+    ],
+    "api_houg": [
+      108,
+      152
+    ],
+    "api_raig": [
+      0,
+      0
+    ],
+    "api_tyku": [
+      65,
+      112
+    ],
+    "api_luck": [
+      18,
+      108
+    ],
+    "api_soku": 5,
+    "api_leng": 4,
+    "api_slot_num": 5,
+    "api_maxeq": [
+      2,
+      2,
+      8,
+      22,
+      2
+    ],
+    "api_buildtime": 480,
+    "api_broken": [
+      40,
+      55,
+      115,
+      24
+    ],
+    "api_powup": [
+      8,
+      0,
+      4,
+      8
+    ],
+    "api_backs": 8,
+    "api_getmes": "<br>",
+    "api_afterfuel": 3600,
+    "api_afterbull": 3300,
+    "api_fuel_max": 300,
+    "api_bull_max": 400,
+    "api_voicef": 3
+  },
+  {
+    "api_id": 918,
+    "api_sortno": 518,
+    "api_sort_id": 32022,
+    "api_name": "Maryland改",
+    "api_yomi": "メリーランド",
+    "api_stype": 9,
+    "api_ctype": 93,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_taik": [
+      91,
+      98
+    ],
+    "api_souk": [
+      83,
+      99
+    ],
+    "api_houg": [
+      80,
+      105
+    ],
+    "api_raig": [
+      0,
+      0
+    ],
+    "api_tyku": [
+      36,
+      100
+    ],
+    "api_luck": [
+      40,
+      110
+    ],
+    "api_soku": 5,
+    "api_leng": 3,
+    "api_slot_num": 4,
+    "api_maxeq": [
+      1,
+      1,
+      1,
+      2,
+      0
+    ],
+    "api_buildtime": 300,
+    "api_broken": [
+      18,
+      31,
+      48,
+      4
+    ],
+    "api_powup": [
+      5,
+      0,
+      3,
+      4
+    ],
+    "api_backs": 8,
+    "api_getmes": "<br>",
+    "api_afterfuel": 0,
+    "api_afterbull": 0,
+    "api_fuel_max": 95,
+    "api_bull_max": 165,
     "api_voicef": 3
   },
   {
@@ -45157,5835 +45872,5 @@ api_mst_ship = [
     "api_fuel_max": 95,
     "api_bull_max": 165,
     "api_voicef": 3
-  },
-  {
-    "api_id": 1501,
-    "api_sort_id": 0,
-    "api_name": "駆逐イ級",
-    "api_yomi": "-",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1502,
-    "api_sort_id": 0,
-    "api_name": "駆逐ロ級",
-    "api_yomi": "-",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1503,
-    "api_sort_id": 0,
-    "api_name": "駆逐ハ級",
-    "api_yomi": "-",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1504,
-    "api_sort_id": 0,
-    "api_name": "駆逐ニ級",
-    "api_yomi": "-",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1505,
-    "api_sort_id": 0,
-    "api_name": "軽巡ホ級",
-    "api_yomi": "-",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1506,
-    "api_sort_id": 0,
-    "api_name": "軽巡ヘ級",
-    "api_yomi": "-",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1507,
-    "api_sort_id": 0,
-    "api_name": "軽巡ト級",
-    "api_yomi": "-",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1508,
-    "api_sort_id": 0,
-    "api_name": "雷巡チ級",
-    "api_yomi": "-",
-    "api_stype": 4,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1509,
-    "api_sort_id": 0,
-    "api_name": "重巡リ級",
-    "api_yomi": "-",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1510,
-    "api_sort_id": 0,
-    "api_name": "軽母ヌ級",
-    "api_yomi": "-",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1511,
-    "api_sort_id": 0,
-    "api_name": "戦艦ル級",
-    "api_yomi": "-",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1512,
-    "api_sort_id": 0,
-    "api_name": "空母ヲ級",
-    "api_yomi": "-",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1513,
-    "api_sort_id": 0,
-    "api_name": "輸送ワ級",
-    "api_yomi": "-",
-    "api_stype": 15,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 0
-  },
-  {
-    "api_id": 1514,
-    "api_sort_id": 0,
-    "api_name": "駆逐イ級",
-    "api_yomi": "elite",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1515,
-    "api_sort_id": 0,
-    "api_name": "駆逐ロ級",
-    "api_yomi": "elite",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1516,
-    "api_sort_id": 0,
-    "api_name": "駆逐ハ級",
-    "api_yomi": "elite",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1517,
-    "api_sort_id": 0,
-    "api_name": "駆逐ニ級",
-    "api_yomi": "elite",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1518,
-    "api_sort_id": 0,
-    "api_name": "軽巡ホ級",
-    "api_yomi": "elite",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1519,
-    "api_sort_id": 0,
-    "api_name": "軽巡ヘ級",
-    "api_yomi": "elite",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1520,
-    "api_sort_id": 0,
-    "api_name": "軽巡ト級",
-    "api_yomi": "elite",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1521,
-    "api_sort_id": 0,
-    "api_name": "雷巡チ級",
-    "api_yomi": "elite",
-    "api_stype": 4,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1522,
-    "api_sort_id": 0,
-    "api_name": "重巡リ級",
-    "api_yomi": "elite",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1523,
-    "api_sort_id": 0,
-    "api_name": "軽母ヌ級",
-    "api_yomi": "elite",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1524,
-    "api_sort_id": 0,
-    "api_name": "戦艦ル級",
-    "api_yomi": "elite",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1525,
-    "api_sort_id": 0,
-    "api_name": "空母ヲ級",
-    "api_yomi": "elite",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1526,
-    "api_sort_id": 0,
-    "api_name": "輸送ワ級",
-    "api_yomi": "elite",
-    "api_stype": 15,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1527,
-    "api_sort_id": 0,
-    "api_name": "重巡リ級",
-    "api_yomi": "flagship",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1528,
-    "api_sort_id": 0,
-    "api_name": "空母ヲ級",
-    "api_yomi": "flagship",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1529,
-    "api_sort_id": 0,
-    "api_name": "戦艦ル級",
-    "api_yomi": "flagship",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1530,
-    "api_sort_id": 0,
-    "api_name": "潜水カ級",
-    "api_yomi": "",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1531,
-    "api_sort_id": 0,
-    "api_name": "潜水ヨ級",
-    "api_yomi": "",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1532,
-    "api_sort_id": 0,
-    "api_name": "潜水カ級",
-    "api_yomi": "elite",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1533,
-    "api_sort_id": 0,
-    "api_name": "潜水ヨ級",
-    "api_yomi": "elite",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1534,
-    "api_sort_id": 0,
-    "api_name": "潜水カ級",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1535,
-    "api_sort_id": 0,
-    "api_name": "潜水ヨ級",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1536,
-    "api_sort_id": 0,
-    "api_name": "浮遊要塞",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1537,
-    "api_sort_id": 0,
-    "api_name": "浮遊要塞",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1538,
-    "api_sort_id": 0,
-    "api_name": "浮遊要塞",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1539,
-    "api_sort_id": 0,
-    "api_name": "泊地棲鬼",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1540,
-    "api_sort_id": 0,
-    "api_name": "泊地棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1541,
-    "api_sort_id": 0,
-    "api_name": "戦艦タ級",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1542,
-    "api_sort_id": 0,
-    "api_name": "戦艦タ級",
-    "api_yomi": "elite",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1543,
-    "api_sort_id": 0,
-    "api_name": "戦艦タ級",
-    "api_yomi": "flagship",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1544,
-    "api_sort_id": 0,
-    "api_name": "装甲空母鬼",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1545,
-    "api_sort_id": 0,
-    "api_name": "装甲空母姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1546,
-    "api_sort_id": 0,
-    "api_name": "南方棲鬼",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1547,
-    "api_sort_id": 0,
-    "api_name": "南方棲戦鬼",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1548,
-    "api_sort_id": 0,
-    "api_name": "南方棲戦姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1549,
-    "api_sort_id": 0,
-    "api_name": "護衛要塞",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1550,
-    "api_sort_id": 0,
-    "api_name": "護衛要塞",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1551,
-    "api_sort_id": 0,
-    "api_name": "護衛要塞",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1552,
-    "api_sort_id": 0,
-    "api_name": "駆逐ロ級",
-    "api_yomi": "flagship",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1553,
-    "api_sort_id": 0,
-    "api_name": "駆逐ハ級",
-    "api_yomi": "flagship",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1554,
-    "api_sort_id": 0,
-    "api_name": "軽巡ホ級",
-    "api_yomi": "flagship",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1555,
-    "api_sort_id": 0,
-    "api_name": "軽巡ヘ級",
-    "api_yomi": "flagship",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1556,
-    "api_sort_id": 0,
-    "api_name": "飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1557,
-    "api_sort_id": 0,
-    "api_name": "戦艦棲姫",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1558,
-    "api_sort_id": 0,
-    "api_name": "輸送ワ級",
-    "api_yomi": "flagship",
-    "api_stype": 15,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1559,
-    "api_sort_id": 0,
-    "api_name": "雷巡チ級",
-    "api_yomi": "flagship",
-    "api_stype": 4,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1560,
-    "api_sort_id": 0,
-    "api_name": "軽母ヌ級",
-    "api_yomi": "flagship",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1561,
-    "api_sort_id": 0,
-    "api_name": "戦艦レ級",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1562,
-    "api_sort_id": 0,
-    "api_name": "戦艦レ級",
-    "api_yomi": "elite",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1564,
-    "api_sort_id": 0,
-    "api_name": "駆逐イ級",
-    "api_yomi": "flagship",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1565,
-    "api_sort_id": 0,
-    "api_name": "空母ヲ級改",
-    "api_yomi": "flagship",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1566,
-    "api_sort_id": 0,
-    "api_name": "重巡リ級改",
-    "api_yomi": "flagship",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1567,
-    "api_sort_id": 0,
-    "api_name": "戦艦ル級改",
-    "api_yomi": "flagship",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1570,
-    "api_sort_id": 0,
-    "api_name": "潜水ソ級",
-    "api_yomi": "",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1571,
-    "api_sort_id": 0,
-    "api_name": "潜水ソ級",
-    "api_yomi": "elite",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1572,
-    "api_sort_id": 0,
-    "api_name": "潜水ソ級",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1573,
-    "api_sort_id": 0,
-    "api_name": "港湾棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1574,
-    "api_sort_id": 0,
-    "api_name": "離島棲鬼",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1575,
-    "api_sort_id": 0,
-    "api_name": "駆逐イ級後期型",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1576,
-    "api_sort_id": 0,
-    "api_name": "駆逐ロ級後期型",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1577,
-    "api_sort_id": 0,
-    "api_name": "駆逐ハ級後期型",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1578,
-    "api_sort_id": 0,
-    "api_name": "駆逐ニ級後期型",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1579,
-    "api_sort_id": 0,
-    "api_name": "空母ヲ級",
-    "api_yomi": "flagship",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1581,
-    "api_sort_id": 0,
-    "api_name": "北方棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1582,
-    "api_sort_id": 0,
-    "api_name": "北方棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1583,
-    "api_sort_id": 0,
-    "api_name": "中間棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 5
-  },
-  {
-    "api_id": 1584,
-    "api_sort_id": 0,
-    "api_name": "中間棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 5
-  },
-  {
-    "api_id": 1585,
-    "api_sort_id": 0,
-    "api_name": "空母棲鬼",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1586,
-    "api_sort_id": 0,
-    "api_name": "空母棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1587,
-    "api_sort_id": 0,
-    "api_name": "北方棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1588,
-    "api_sort_id": 0,
-    "api_name": "北方棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1589,
-    "api_sort_id": 0,
-    "api_name": "北方棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1590,
-    "api_sort_id": 0,
-    "api_name": "北方棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1591,
-    "api_sort_id": 0,
-    "api_name": "軽巡ツ級",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1592,
-    "api_sort_id": 0,
-    "api_name": "軽巡ツ級",
-    "api_yomi": "elite",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1594,
-    "api_sort_id": 0,
-    "api_name": "重巡ネ級",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1595,
-    "api_sort_id": 0,
-    "api_name": "重巡ネ級",
-    "api_yomi": "elite",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1597,
-    "api_sort_id": 0,
-    "api_name": "駆逐棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1598,
-    "api_sort_id": 0,
-    "api_name": "駆逐棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1599,
-    "api_sort_id": 0,
-    "api_name": "空母水鬼",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1600,
-    "api_sort_id": 0,
-    "api_name": "空母水鬼",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1601,
-    "api_sort_id": 0,
-    "api_name": "軽巡棲鬼",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1602,
-    "api_sort_id": 0,
-    "api_name": "軽巡棲鬼",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1603,
-    "api_sort_id": 0,
-    "api_name": "戦艦水鬼",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1604,
-    "api_sort_id": 0,
-    "api_name": "戦艦水鬼",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1605,
-    "api_sort_id": 0,
-    "api_name": "港湾水鬼",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1606,
-    "api_sort_id": 0,
-    "api_name": "港湾水鬼",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1607,
-    "api_sort_id": 0,
-    "api_name": "港湾水鬼",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1608,
-    "api_sort_id": 0,
-    "api_name": "港湾水鬼",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1609,
-    "api_sort_id": 0,
-    "api_name": "泊地水鬼",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1610,
-    "api_sort_id": 0,
-    "api_name": "泊地水鬼",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1611,
-    "api_sort_id": 0,
-    "api_name": "泊地水鬼",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1612,
-    "api_sort_id": 0,
-    "api_name": "泊地水鬼",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1613,
-    "api_sort_id": 0,
-    "api_name": "港湾棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1614,
-    "api_sort_id": 0,
-    "api_name": "空母ヲ級",
-    "api_yomi": "flagship",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1615,
-    "api_sort_id": 0,
-    "api_name": "空母ヲ級",
-    "api_yomi": "flagship",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1616,
-    "api_sort_id": 0,
-    "api_name": "空母ヲ級改",
-    "api_yomi": "flagship",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1617,
-    "api_sort_id": 0,
-    "api_name": "空母ヲ級改",
-    "api_yomi": "flagship",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1618,
-    "api_sort_id": 0,
-    "api_name": "空母ヲ級改",
-    "api_yomi": "flagship",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1619,
-    "api_sort_id": 0,
-    "api_name": "空母棲鬼",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1620,
-    "api_sort_id": 0,
-    "api_name": "空母棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1621,
-    "api_sort_id": 0,
-    "api_name": "駆逐イ級後期型",
-    "api_yomi": "elite",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1622,
-    "api_sort_id": 0,
-    "api_name": "駆逐ロ級後期型",
-    "api_yomi": "elite",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1623,
-    "api_sort_id": 0,
-    "api_name": "駆逐ハ級後期型",
-    "api_yomi": "elite",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1624,
-    "api_sort_id": 0,
-    "api_name": "駆逐ニ級後期型",
-    "api_yomi": "elite",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1625,
-    "api_sort_id": 0,
-    "api_name": "水母棲姫",
-    "api_yomi": "",
-    "api_stype": 16,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1626,
-    "api_sort_id": 0,
-    "api_name": "水母棲姫",
-    "api_yomi": "",
-    "api_stype": 16,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1627,
-    "api_sort_id": 0,
-    "api_name": "水母棲姫",
-    "api_yomi": "",
-    "api_stype": 16,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1628,
-    "api_sort_id": 0,
-    "api_name": "防空棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1629,
-    "api_sort_id": 0,
-    "api_name": "防空棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1630,
-    "api_sort_id": 0,
-    "api_name": "防空棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1631,
-    "api_sort_id": 0,
-    "api_name": "飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1632,
-    "api_sort_id": 0,
-    "api_name": "飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1633,
-    "api_sort_id": 0,
-    "api_name": "飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1634,
-    "api_sort_id": 0,
-    "api_name": "離島棲鬼",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1635,
-    "api_sort_id": 0,
-    "api_name": "離島棲鬼",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1636,
-    "api_sort_id": 0,
-    "api_name": "離島棲鬼",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1637,
-    "api_sort_id": 0,
-    "api_name": "PT小鬼群",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1638,
-    "api_sort_id": 0,
-    "api_name": "PT小鬼群",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1639,
-    "api_sort_id": 0,
-    "api_name": "PT小鬼群",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1640,
-    "api_sort_id": 0,
-    "api_name": "PT小鬼群",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 2
-  },
-  {
-    "api_id": 1641,
-    "api_sort_id": 0,
-    "api_name": "軽巡棲姫",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1642,
-    "api_sort_id": 0,
-    "api_name": "軽巡棲姫",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1643,
-    "api_sort_id": 0,
-    "api_name": "軽巡棲姫",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1644,
-    "api_sort_id": 0,
-    "api_name": "潜水棲姫",
-    "api_yomi": "",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1645,
-    "api_sort_id": 0,
-    "api_name": "潜水棲姫",
-    "api_yomi": "",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1646,
-    "api_sort_id": 0,
-    "api_name": "潜水棲姫",
-    "api_yomi": "",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1647,
-    "api_sort_id": 0,
-    "api_name": "駆逐水鬼",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1648,
-    "api_sort_id": 0,
-    "api_name": "駆逐水鬼",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1649,
-    "api_sort_id": 0,
-    "api_name": "駆逐水鬼",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1650,
-    "api_sort_id": 0,
-    "api_name": "飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1651,
-    "api_sort_id": 0,
-    "api_name": "飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1652,
-    "api_sort_id": 0,
-    "api_name": "飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1653,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1654,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1655,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1656,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1657,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1658,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1659,
-    "api_sort_id": 0,
-    "api_name": "重巡棲姫",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1660,
-    "api_sort_id": 0,
-    "api_name": "重巡棲姫",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1661,
-    "api_sort_id": 0,
-    "api_name": "重巡棲姫",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1662,
-    "api_sort_id": 0,
-    "api_name": "重巡棲姫",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1663,
-    "api_sort_id": 0,
-    "api_name": "重巡棲姫",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1664,
-    "api_sort_id": 0,
-    "api_name": "重巡棲姫",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1665,
-    "api_sort_id": 0,
-    "api_name": "砲台小鬼",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1666,
-    "api_sort_id": 0,
-    "api_name": "砲台小鬼",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1667,
-    "api_sort_id": 0,
-    "api_name": "砲台小鬼",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1668,
-    "api_sort_id": 0,
-    "api_name": "離島棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1669,
-    "api_sort_id": 0,
-    "api_name": "離島棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1670,
-    "api_sort_id": 0,
-    "api_name": "離島棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1671,
-    "api_sort_id": 0,
-    "api_name": "離島棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1672,
-    "api_sort_id": 0,
-    "api_name": "離島棲姫",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1673,
-    "api_sort_id": 0,
-    "api_name": "駆逐古鬼",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1674,
-    "api_sort_id": 0,
-    "api_name": "駆逐古鬼",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1675,
-    "api_sort_id": 0,
-    "api_name": "駆逐古鬼",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1676,
-    "api_sort_id": 0,
-    "api_name": "駆逐水鬼",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1677,
-    "api_sort_id": 0,
-    "api_name": "駆逐水鬼",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1678,
-    "api_sort_id": 0,
-    "api_name": "駆逐水鬼",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1679,
-    "api_sort_id": 0,
-    "api_name": "リコリス棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1680,
-    "api_sort_id": 0,
-    "api_name": "リコリス棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1681,
-    "api_sort_id": 0,
-    "api_name": "リコリス棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1682,
-    "api_sort_id": 0,
-    "api_name": "リコリス棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1683,
-    "api_sort_id": 0,
-    "api_name": "リコリス棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1684,
-    "api_sort_id": 0,
-    "api_name": "中枢棲姫",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1685,
-    "api_sort_id": 0,
-    "api_name": "中枢棲姫",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1686,
-    "api_sort_id": 0,
-    "api_name": "中枢棲姫",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1687,
-    "api_sort_id": 0,
-    "api_name": "中枢棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1688,
-    "api_sort_id": 0,
-    "api_name": "中枢棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1689,
-    "api_sort_id": 0,
-    "api_name": "中枢棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1690,
-    "api_sort_id": 0,
-    "api_name": "駆逐古姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1691,
-    "api_sort_id": 0,
-    "api_name": "駆逐古姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1692,
-    "api_sort_id": 0,
-    "api_name": "駆逐古姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1693,
-    "api_sort_id": 0,
-    "api_name": "潜水夏姫",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1694,
-    "api_sort_id": 0,
-    "api_name": "潜水夏姫",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1695,
-    "api_sort_id": 0,
-    "api_name": "潜水夏姫",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1696,
-    "api_sort_id": 0,
-    "api_name": "戦艦夏姫",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1697,
-    "api_sort_id": 0,
-    "api_name": "戦艦夏姫",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1698,
-    "api_sort_id": 0,
-    "api_name": "戦艦夏姫",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1699,
-    "api_sort_id": 0,
-    "api_name": "港湾夏姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1700,
-    "api_sort_id": 0,
-    "api_name": "港湾夏姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1701,
-    "api_sort_id": 0,
-    "api_name": "港湾夏姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1702,
-    "api_sort_id": 0,
-    "api_name": "港湾夏姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1703,
-    "api_sort_id": 0,
-    "api_name": "港湾夏姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1704,
-    "api_sort_id": 0,
-    "api_name": "港湾夏姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1705,
-    "api_sort_id": 0,
-    "api_name": "重巡夏姫",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1706,
-    "api_sort_id": 0,
-    "api_name": "重巡夏姫",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1707,
-    "api_sort_id": 0,
-    "api_name": "重巡夏姫",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1708,
-    "api_sort_id": 0,
-    "api_name": "水母水姫",
-    "api_yomi": "",
-    "api_stype": 16,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1709,
-    "api_sort_id": 0,
-    "api_name": "水母水姫",
-    "api_yomi": "",
-    "api_stype": 16,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1710,
-    "api_sort_id": 0,
-    "api_name": "水母水姫",
-    "api_yomi": "",
-    "api_stype": 16,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1711,
-    "api_sort_id": 0,
-    "api_name": "深海海月姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1712,
-    "api_sort_id": 0,
-    "api_name": "深海海月姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1713,
-    "api_sort_id": 0,
-    "api_name": "深海海月姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1714,
-    "api_sort_id": 0,
-    "api_name": "空母ヲ級改",
-    "api_yomi": "flagship",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1715,
-    "api_sort_id": 0,
-    "api_name": "空母ヲ級改",
-    "api_yomi": "flagship",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1716,
-    "api_sort_id": 0,
-    "api_name": "深海双子棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1717,
-    "api_sort_id": 0,
-    "api_name": "深海双子棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1718,
-    "api_sort_id": 0,
-    "api_name": "深海双子棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1719,
-    "api_sort_id": 0,
-    "api_name": "深海双子棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1720,
-    "api_sort_id": 0,
-    "api_name": "深海双子棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1721,
-    "api_sort_id": 0,
-    "api_name": "深海双子棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1722,
-    "api_sort_id": 0,
-    "api_name": "護衛棲姫",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1723,
-    "api_sort_id": 0,
-    "api_name": "護衛棲姫",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1724,
-    "api_sort_id": 0,
-    "api_name": "護衛棲姫",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1725,
-    "api_sort_id": 0,
-    "api_name": "北端上陸姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1726,
-    "api_sort_id": 0,
-    "api_name": "北端上陸姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1727,
-    "api_sort_id": 0,
-    "api_name": "北端上陸姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1728,
-    "api_sort_id": 0,
-    "api_name": "北方水姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1729,
-    "api_sort_id": 0,
-    "api_name": "北方水姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1730,
-    "api_sort_id": 0,
-    "api_name": "北方水姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1731,
-    "api_sort_id": 0,
-    "api_name": "北方水姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1732,
-    "api_sort_id": 0,
-    "api_name": "北方水姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1733,
-    "api_sort_id": 0,
-    "api_name": "北方水姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1734,
-    "api_sort_id": 0,
-    "api_name": "軽母ヌ級改",
-    "api_yomi": "elite",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1735,
-    "api_sort_id": 0,
-    "api_name": "軽母ヌ級改",
-    "api_yomi": "flagship",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1736,
-    "api_sort_id": 0,
-    "api_name": "潜水新棲姫",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1737,
-    "api_sort_id": 0,
-    "api_name": "潜水新棲姫",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1738,
-    "api_sort_id": 0,
-    "api_name": "潜水新棲姫",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1739,
-    "api_sort_id": 0,
-    "api_name": "駆逐ナ級",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1740,
-    "api_sort_id": 0,
-    "api_name": "駆逐ナ級",
-    "api_yomi": "elite",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1741,
-    "api_sort_id": 0,
-    "api_name": "駆逐ナ級",
-    "api_yomi": "flagship",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1742,
-    "api_sort_id": 0,
-    "api_name": "駆逐ナ級後期型",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1743,
-    "api_sort_id": 0,
-    "api_name": "駆逐ナ級後期型",
-    "api_yomi": "elite",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1744,
-    "api_sort_id": 0,
-    "api_name": "駆逐ナ級後期型",
-    "api_yomi": "flagship",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1745,
-    "api_sort_id": 0,
-    "api_name": "戦艦仏棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1746,
-    "api_sort_id": 0,
-    "api_name": "戦艦仏棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1747,
-    "api_sort_id": 0,
-    "api_name": "戦艦仏棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1748,
-    "api_sort_id": 0,
-    "api_name": "戦艦仏棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1749,
-    "api_sort_id": 0,
-    "api_name": "戦艦仏棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1750,
-    "api_sort_id": 0,
-    "api_name": "戦艦仏棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1751,
-    "api_sort_id": 0,
-    "api_name": "空母夏鬼",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1752,
-    "api_sort_id": 0,
-    "api_name": "空母夏姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1753,
-    "api_sort_id": 0,
-    "api_name": "集積地夏姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1754,
-    "api_sort_id": 0,
-    "api_name": "集積地夏姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1755,
-    "api_sort_id": 0,
-    "api_name": "欧州棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1756,
-    "api_sort_id": 0,
-    "api_name": "欧州棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1757,
-    "api_sort_id": 0,
-    "api_name": "欧州棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1758,
-    "api_sort_id": 0,
-    "api_name": "欧州棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1759,
-    "api_sort_id": 0,
-    "api_name": "欧州棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1760,
-    "api_sort_id": 0,
-    "api_name": "欧州棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1761,
-    "api_sort_id": 0,
-    "api_name": "重巡ネ級",
-    "api_yomi": "flagship",
-    "api_stype": 6,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1762,
-    "api_sort_id": 0,
-    "api_name": "軽母ヌ級",
-    "api_yomi": "elite",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1763,
-    "api_sort_id": 0,
-    "api_name": "軽母ヌ級",
-    "api_yomi": "flagship",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1764,
-    "api_sort_id": 0,
-    "api_name": "軽母ヌ級",
-    "api_yomi": "flagship",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1765,
-    "api_sort_id": 0,
-    "api_name": "軽母ヌ級改",
-    "api_yomi": "elite",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1766,
-    "api_sort_id": 0,
-    "api_name": "軽母ヌ級改",
-    "api_yomi": "flagship",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1767,
-    "api_sort_id": 0,
-    "api_name": "海峡夜棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1768,
-    "api_sort_id": 0,
-    "api_name": "海峡夜棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1769,
-    "api_sort_id": 0,
-    "api_name": "海峡夜棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1770,
-    "api_sort_id": 0,
-    "api_name": "海峡夜棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1771,
-    "api_sort_id": 0,
-    "api_name": "海峡夜棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1772,
-    "api_sort_id": 0,
-    "api_name": "海峡夜棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1773,
-    "api_sort_id": 0,
-    "api_name": "防空埋護姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1774,
-    "api_sort_id": 0,
-    "api_name": "防空埋護姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1775,
-    "api_sort_id": 0,
-    "api_name": "防空埋護姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1776,
-    "api_sort_id": 0,
-    "api_name": "軽母ヌ級",
-    "api_yomi": "elite",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1777,
-    "api_sort_id": 0,
-    "api_name": "軽母ヌ級",
-    "api_yomi": "elite",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1778,
-    "api_sort_id": 0,
-    "api_name": "軽母ヌ級改",
-    "api_yomi": "elite",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1779,
-    "api_sort_id": 0,
-    "api_name": "軽母ヌ級改",
-    "api_yomi": "flagship",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1780,
-    "api_sort_id": 0,
-    "api_name": "軽母ヌ級改",
-    "api_yomi": "flagship",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1781,
-    "api_sort_id": 0,
-    "api_name": "空母棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1782,
-    "api_sort_id": 0,
-    "api_name": "空母棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1783,
-    "api_sort_id": 0,
-    "api_name": "護衛棲水姫",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1784,
-    "api_sort_id": 0,
-    "api_name": "護衛棲水姫",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1785,
-    "api_sort_id": 0,
-    "api_name": "護衛棲水姫",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1786,
-    "api_sort_id": 0,
-    "api_name": "護衛棲水姫-壊",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1787,
-    "api_sort_id": 0,
-    "api_name": "護衛棲水姫-壊",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1788,
-    "api_sort_id": 0,
-    "api_name": "護衛棲水姫-壊",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1789,
-    "api_sort_id": 0,
-    "api_name": "潜水新棲姫",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1790,
-    "api_sort_id": 0,
-    "api_name": "戦艦棲姫改",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1791,
-    "api_sort_id": 0,
-    "api_name": "戦艦棲姫改",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1792,
-    "api_sort_id": 0,
-    "api_name": "戦艦棲姫改",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1793,
-    "api_sort_id": 0,
-    "api_name": "戦艦水鬼改",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1794,
-    "api_sort_id": 0,
-    "api_name": "戦艦水鬼改",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1795,
-    "api_sort_id": 0,
-    "api_name": "戦艦水鬼改",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1796,
-    "api_sort_id": 0,
-    "api_name": "戦艦水鬼改-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1797,
-    "api_sort_id": 0,
-    "api_name": "戦艦水鬼改-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1798,
-    "api_sort_id": 0,
-    "api_name": "戦艦水鬼改-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1799,
-    "api_sort_id": 0,
-    "api_name": "深海鶴棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1800,
-    "api_sort_id": 0,
-    "api_name": "深海鶴棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1801,
-    "api_sort_id": 0,
-    "api_name": "深海鶴棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1802,
-    "api_sort_id": 0,
-    "api_name": "深海鶴棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1803,
-    "api_sort_id": 0,
-    "api_name": "深海鶴棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1804,
-    "api_sort_id": 0,
-    "api_name": "深海鶴棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1805,
-    "api_sort_id": 0,
-    "api_name": "潜水新棲姫 バカンスmode",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1806,
-    "api_sort_id": 0,
-    "api_name": "潜水新棲姫 バカンスmode",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1807,
-    "api_sort_id": 0,
-    "api_name": "潜水新棲姫 バカンスmode",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1808,
-    "api_sort_id": 0,
-    "api_name": "潜水新棲姫 バカンスmode",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1809,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1810,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1811,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1812,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫 バカンスmode-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1813,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫 バカンスmode-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1814,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫 バカンスmode-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1815,
-    "api_sort_id": 0,
-    "api_name": "泊地水鬼 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1816,
-    "api_sort_id": 0,
-    "api_name": "泊地水鬼 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1817,
-    "api_sort_id": 0,
-    "api_name": "泊地水鬼 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1818,
-    "api_sort_id": 0,
-    "api_name": "泊地水鬼 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1819,
-    "api_sort_id": 0,
-    "api_name": "泊地水鬼 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1820,
-    "api_sort_id": 0,
-    "api_name": "泊地水鬼 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1821,
-    "api_sort_id": 0,
-    "api_name": "護衛独還姫",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1822,
-    "api_sort_id": 0,
-    "api_name": "護衛独還姫",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1823,
-    "api_sort_id": 0,
-    "api_name": "護衛独還姫",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1824,
-    "api_sort_id": 0,
-    "api_name": "護衛独還姫-壊",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1825,
-    "api_sort_id": 0,
-    "api_name": "護衛独還姫-壊",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1826,
-    "api_sort_id": 0,
-    "api_name": "護衛独還姫-壊",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1827,
-    "api_sort_id": 0,
-    "api_name": "船渠棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1828,
-    "api_sort_id": 0,
-    "api_name": "船渠棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1829,
-    "api_sort_id": 0,
-    "api_name": "船渠棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1830,
-    "api_sort_id": 0,
-    "api_name": "船渠棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1831,
-    "api_sort_id": 0,
-    "api_name": "船渠棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1832,
-    "api_sort_id": 0,
-    "api_name": "船渠棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1834,
-    "api_sort_id": 0,
-    "api_name": "戦艦仏棲姫 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1835,
-    "api_sort_id": 0,
-    "api_name": "戦艦仏棲姫 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1836,
-    "api_sort_id": 0,
-    "api_name": "戦艦仏棲姫 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1837,
-    "api_sort_id": 0,
-    "api_name": "戦艦仏棲姫-壊 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1838,
-    "api_sort_id": 0,
-    "api_name": "戦艦仏棲姫-壊 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1839,
-    "api_sort_id": 0,
-    "api_name": "戦艦仏棲姫-壊 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1840,
-    "api_sort_id": 0,
-    "api_name": "欧州水姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1841,
-    "api_sort_id": 0,
-    "api_name": "欧州水姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1842,
-    "api_sort_id": 0,
-    "api_name": "欧州水姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1843,
-    "api_sort_id": 0,
-    "api_name": "欧州水姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1844,
-    "api_sort_id": 0,
-    "api_name": "欧州水姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1845,
-    "api_sort_id": 0,
-    "api_name": "欧州水姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1846,
-    "api_sort_id": 0,
-    "api_name": "深海雨雲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1847,
-    "api_sort_id": 0,
-    "api_name": "深海雨雲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1848,
-    "api_sort_id": 0,
-    "api_name": "深海雨雲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1849,
-    "api_sort_id": 0,
-    "api_name": "深海雨雲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1850,
-    "api_sort_id": 0,
-    "api_name": "深海雨雲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1851,
-    "api_sort_id": 0,
-    "api_name": "深海雨雲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1852,
-    "api_sort_id": 0,
-    "api_name": "深海日棲姫",
-    "api_yomi": "",
-    "api_stype": 16,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1853,
-    "api_sort_id": 0,
-    "api_name": "深海日棲姫",
-    "api_yomi": "",
-    "api_stype": 16,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1854,
-    "api_sort_id": 0,
-    "api_name": "深海日棲姫",
-    "api_yomi": "",
-    "api_stype": 16,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1855,
-    "api_sort_id": 0,
-    "api_name": "深海日棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 16,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1856,
-    "api_sort_id": 0,
-    "api_name": "深海日棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 16,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1857,
-    "api_sort_id": 0,
-    "api_name": "深海日棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 16,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1858,
-    "api_sort_id": 0,
-    "api_name": "駆逐ニ級改",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1859,
-    "api_sort_id": 0,
-    "api_name": "駆逐ニ級改後期型",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1860,
-    "api_sort_id": 0,
-    "api_name": "駆逐ニ級改後期型",
-    "api_yomi": "elite",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1861,
-    "api_sort_id": 0,
-    "api_name": "駆逐ニ級改後期型",
-    "api_yomi": "flagship",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1862,
-    "api_sort_id": 0,
-    "api_name": "軽巡ツ級",
-    "api_yomi": "flagship",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1863,
-    "api_sort_id": 0,
-    "api_name": "重巡棲姫",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1864,
-    "api_sort_id": 0,
-    "api_name": "重巡棲姫",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1865,
-    "api_sort_id": 0,
-    "api_name": "北方棲妹",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1866,
-    "api_sort_id": 0,
-    "api_name": "北方棲妹",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1867,
-    "api_sort_id": 0,
-    "api_name": "北方棲妹",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1868,
-    "api_sort_id": 0,
-    "api_name": "北方棲妹-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1869,
-    "api_sort_id": 0,
-    "api_name": "北方棲妹-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1870,
-    "api_sort_id": 0,
-    "api_name": "北方棲妹-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1871,
-    "api_sort_id": 0,
-    "api_name": "太平洋深海棲姫",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1872,
-    "api_sort_id": 0,
-    "api_name": "太平洋深海棲姫",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1873,
-    "api_sort_id": 0,
-    "api_name": "太平洋深海棲姫",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1874,
-    "api_sort_id": 0,
-    "api_name": "太平洋深海棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1875,
-    "api_sort_id": 0,
-    "api_name": "太平洋深海棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1876,
-    "api_sort_id": 0,
-    "api_name": "太平洋深海棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1877,
-    "api_sort_id": 0,
-    "api_name": "深海地中海棲姫",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1878,
-    "api_sort_id": 0,
-    "api_name": "深海地中海棲姫",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1879,
-    "api_sort_id": 0,
-    "api_name": "深海地中海棲姫",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1880,
-    "api_sort_id": 0,
-    "api_name": "深海地中海棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1881,
-    "api_sort_id": 0,
-    "api_name": "深海地中海棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1882,
-    "api_sort_id": 0,
-    "api_name": "深海地中海棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1883,
-    "api_sort_id": 0,
-    "api_name": "アンツィオ沖棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1884,
-    "api_sort_id": 0,
-    "api_name": "アンツィオ沖棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1885,
-    "api_sort_id": 0,
-    "api_name": "アンツィオ沖棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1886,
-    "api_sort_id": 0,
-    "api_name": "アンツィオ沖棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1887,
-    "api_sort_id": 0,
-    "api_name": "アンツィオ沖棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1888,
-    "api_sort_id": 0,
-    "api_name": "アンツィオ沖棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1889,
-    "api_sort_id": 0,
-    "api_name": "飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1890,
-    "api_sort_id": 0,
-    "api_name": "飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1891,
-    "api_sort_id": 0,
-    "api_name": "飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1892,
-    "api_sort_id": 0,
-    "api_name": "飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1893,
-    "api_sort_id": 0,
-    "api_name": "飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1894,
-    "api_sort_id": 0,
-    "api_name": "飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1895,
-    "api_sort_id": 0,
-    "api_name": "重巡ネ級改",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1896,
-    "api_sort_id": 0,
-    "api_name": "重巡ネ級改",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1897,
-    "api_sort_id": 0,
-    "api_name": "重巡ネ級改",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1898,
-    "api_sort_id": 0,
-    "api_name": "バタビア沖棲姫",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1899,
-    "api_sort_id": 0,
-    "api_name": "バタビア沖棲姫",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1900,
-    "api_sort_id": 0,
-    "api_name": "バタビア沖棲姫",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1901,
-    "api_sort_id": 0,
-    "api_name": "バタビア沖棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1902,
-    "api_sort_id": 0,
-    "api_name": "バタビア沖棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1903,
-    "api_sort_id": 0,
-    "api_name": "バタビア沖棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1904,
-    "api_sort_id": 0,
-    "api_name": "軽巡ヘ級改",
-    "api_yomi": "flagship",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1905,
-    "api_sort_id": 0,
-    "api_name": "軽巡ヘ級改",
-    "api_yomi": "flagship",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1906,
-    "api_sort_id": 0,
-    "api_name": "空母棲姫改",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1907,
-    "api_sort_id": 0,
-    "api_name": "空母棲姫改",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1908,
-    "api_sort_id": 0,
-    "api_name": "空母棲姫改",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1909,
-    "api_sort_id": 0,
-    "api_name": "防空巡棲姫",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1910,
-    "api_sort_id": 0,
-    "api_name": "防空巡棲姫",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1911,
-    "api_sort_id": 0,
-    "api_name": "防空巡棲姫",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1912,
-    "api_sort_id": 0,
-    "api_name": "防空巡棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1913,
-    "api_sort_id": 0,
-    "api_name": "防空巡棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1914,
-    "api_sort_id": 0,
-    "api_name": "防空巡棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1915,
-    "api_sort_id": 0,
-    "api_name": "潜水棲姫改",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1916,
-    "api_sort_id": 0,
-    "api_name": "潜水棲姫改",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1917,
-    "api_sort_id": 0,
-    "api_name": "潜水棲姫改",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1918,
-    "api_sort_id": 0,
-    "api_name": "潜水棲姫改-壊",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1919,
-    "api_sort_id": 0,
-    "api_name": "潜水棲姫改-壊",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1920,
-    "api_sort_id": 0,
-    "api_name": "潜水棲姫改-壊",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1921,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1922,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1923,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1924,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1925,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1926,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1927,
-    "api_sort_id": 0,
-    "api_name": "深海千島棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1928,
-    "api_sort_id": 0,
-    "api_name": "深海千島棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1929,
-    "api_sort_id": 0,
-    "api_name": "深海千島棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1930,
-    "api_sort_id": 0,
-    "api_name": "深海千島棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1931,
-    "api_sort_id": 0,
-    "api_name": "深海千島棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1932,
-    "api_sort_id": 0,
-    "api_name": "深海千島棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1933,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II 夏季上陸mode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1934,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II 夏季上陸mode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1935,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II 夏季上陸mode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1936,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II 夏季上陸mode-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1937,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II 夏季上陸mode-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1938,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II 夏季上陸mode-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1939,
-    "api_sort_id": 0,
-    "api_name": "五島沖海底姫",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1940,
-    "api_sort_id": 0,
-    "api_name": "五島沖海底姫",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1941,
-    "api_sort_id": 0,
-    "api_name": "五島沖海底姫",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1942,
-    "api_sort_id": 0,
-    "api_name": "五島沖海底姫-壊",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1943,
-    "api_sort_id": 0,
-    "api_name": "五島沖海底姫-壊",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1944,
-    "api_sort_id": 0,
-    "api_name": "五島沖海底姫-壊",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1945,
-    "api_sort_id": 0,
-    "api_name": "駆逐林棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1946,
-    "api_sort_id": 0,
-    "api_name": "駆逐林棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1947,
-    "api_sort_id": 0,
-    "api_name": "駆逐林棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1948,
-    "api_sort_id": 0,
-    "api_name": "駆逐林棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1949,
-    "api_sort_id": 0,
-    "api_name": "駆逐林棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1950,
-    "api_sort_id": 0,
-    "api_name": "駆逐林棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1951,
-    "api_sort_id": 0,
-    "api_name": "駆逐ナ級後期型II",
-    "api_yomi": "elite",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1952,
-    "api_sort_id": 0,
-    "api_name": "駆逐ナ級後期型II",
-    "api_yomi": "flagship",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1953,
-    "api_sort_id": 0,
-    "api_name": "重巡ネ級改 夏mode",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1954,
-    "api_sort_id": 0,
-    "api_name": "重巡ネ級改 夏mode",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1955,
-    "api_sort_id": 0,
-    "api_name": "重巡ネ級改 夏mode",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1956,
-    "api_sort_id": 0,
-    "api_name": "重巡ネ級改II 夏mode",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1957,
-    "api_sort_id": 0,
-    "api_name": "軽巡棲姫II",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1958,
-    "api_sort_id": 0,
-    "api_name": "軽巡棲姫II",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1959,
-    "api_sort_id": 0,
-    "api_name": "軽巡棲姫II",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1960,
-    "api_sort_id": 0,
-    "api_name": "軽巡棲姫II",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1961,
-    "api_sort_id": 0,
-    "api_name": "空母夏姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1962,
-    "api_sort_id": 0,
-    "api_name": "空母夏姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1963,
-    "api_sort_id": 0,
-    "api_name": "空母夏姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1964,
-    "api_sort_id": 0,
-    "api_name": "空母夏姫II",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1965,
-    "api_sort_id": 0,
-    "api_name": "南方戦艦新棲姫",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1966,
-    "api_sort_id": 0,
-    "api_name": "南方戦艦新棲姫",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1967,
-    "api_sort_id": 0,
-    "api_name": "南方戦艦新棲姫",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1968,
-    "api_sort_id": 0,
-    "api_name": "南方戦艦新棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1969,
-    "api_sort_id": 0,
-    "api_name": "南方戦艦新棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1970,
-    "api_sort_id": 0,
-    "api_name": "南方戦艦新棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1971,
-    "api_sort_id": 0,
-    "api_name": "南太平洋空母棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1972,
-    "api_sort_id": 0,
-    "api_name": "南太平洋空母棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1973,
-    "api_sort_id": 0,
-    "api_name": "南太平洋空母棲姫",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1974,
-    "api_sort_id": 0,
-    "api_name": "南太平洋空母棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1975,
-    "api_sort_id": 0,
-    "api_name": "南太平洋空母棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1976,
-    "api_sort_id": 0,
-    "api_name": "南太平洋空母棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1977,
-    "api_sort_id": 0,
-    "api_name": "潜水夏姫II",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1978,
-    "api_sort_id": 0,
-    "api_name": "潜水夏姫II",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1979,
-    "api_sort_id": 0,
-    "api_name": "戦艦新棲姫",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1980,
-    "api_sort_id": 0,
-    "api_name": "戦艦新棲姫",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1981,
-    "api_sort_id": 0,
-    "api_name": "戦艦新棲姫",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1982,
-    "api_sort_id": 0,
-    "api_name": "戦艦新棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1983,
-    "api_sort_id": 0,
-    "api_name": "戦艦新棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1984,
-    "api_sort_id": 0,
-    "api_name": "戦艦新棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1985,
-    "api_sort_id": 0,
-    "api_name": "潜水棲姫改II",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1986,
-    "api_sort_id": 0,
-    "api_name": "潜水棲姫改II",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1987,
-    "api_sort_id": 0,
-    "api_name": "潜水棲姫改II",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1988,
-    "api_sort_id": 0,
-    "api_name": "深海竹棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1989,
-    "api_sort_id": 0,
-    "api_name": "深海竹棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1990,
-    "api_sort_id": 0,
-    "api_name": "深海竹棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1991,
-    "api_sort_id": 0,
-    "api_name": "深海竹棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1992,
-    "api_sort_id": 0,
-    "api_name": "深海竹棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1993,
-    "api_sort_id": 0,
-    "api_name": "深海竹棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1994,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1995,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1996,
-    "api_sort_id": 0,
-    "api_name": "潜水棲姫改II",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 1997,
-    "api_sort_id": 0,
-    "api_name": "空母棲姫改",
-    "api_yomi": "",
-    "api_stype": 11,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1998,
-    "api_sort_id": 0,
-    "api_name": "軽巡ト級",
-    "api_yomi": "flagship",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 1999,
-    "api_sort_id": 0,
-    "api_name": "重巡リ級II",
-    "api_yomi": "flagship",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2000,
-    "api_sort_id": 0,
-    "api_name": "ルンガ沖重巡棲姫",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2001,
-    "api_sort_id": 0,
-    "api_name": "ルンガ沖重巡棲姫",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2002,
-    "api_sort_id": 0,
-    "api_name": "ルンガ沖重巡棲姫",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2003,
-    "api_sort_id": 0,
-    "api_name": "ルンガ沖重巡棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2004,
-    "api_sort_id": 0,
-    "api_name": "ルンガ沖重巡棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2005,
-    "api_sort_id": 0,
-    "api_name": "ルンガ沖重巡棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 8,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2006,
-    "api_sort_id": 0,
-    "api_name": "軽巡新棲姫",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2007,
-    "api_sort_id": 0,
-    "api_name": "軽巡新棲姫",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2008,
-    "api_sort_id": 0,
-    "api_name": "軽巡新棲姫",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2009,
-    "api_sort_id": 0,
-    "api_name": "軽巡新棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2010,
-    "api_sort_id": 0,
-    "api_name": "軽巡新棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2011,
-    "api_sort_id": 0,
-    "api_name": "軽巡新棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2012,
-    "api_sort_id": 0,
-    "api_name": "軽巡ト級",
-    "api_yomi": "elite",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2013,
-    "api_sort_id": 0,
-    "api_name": "輸送ワ級II",
-    "api_yomi": "elite",
-    "api_stype": 15,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2014,
-    "api_sort_id": 0,
-    "api_name": "輸送ワ級II",
-    "api_yomi": "flagship",
-    "api_stype": 15,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2015,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II バカンスmode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2016,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II バカンスmode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2017,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II バカンスmode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2018,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II バカンスmode",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2019,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II バカンスmode-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2020,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II バカンスmode-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2021,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II バカンスmode-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2022,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫II バカンスmode-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2023,
-    "api_sort_id": 0,
-    "api_name": "港湾夏姫II",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2024,
-    "api_sort_id": 0,
-    "api_name": "港湾夏姫II",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2025,
-    "api_sort_id": 0,
-    "api_name": "港湾夏姫II",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2026,
-    "api_sort_id": 0,
-    "api_name": "港湾夏姫II-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2027,
-    "api_sort_id": 0,
-    "api_name": "港湾夏姫II-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2028,
-    "api_sort_id": 0,
-    "api_name": "港湾夏姫II-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2029,
-    "api_sort_id": 0,
-    "api_name": "地中海弩級水姫",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2030,
-    "api_sort_id": 0,
-    "api_name": "地中海弩級水姫",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2031,
-    "api_sort_id": 0,
-    "api_name": "地中海弩級水姫",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2032,
-    "api_sort_id": 0,
-    "api_name": "地中海弩級水姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2033,
-    "api_sort_id": 0,
-    "api_name": "地中海弩級水姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2034,
-    "api_sort_id": 0,
-    "api_name": "地中海弩級水姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2035,
-    "api_sort_id": 0,
-    "api_name": "深海地中海棲姫 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2036,
-    "api_sort_id": 0,
-    "api_name": "深海地中海棲姫 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2037,
-    "api_sort_id": 0,
-    "api_name": "深海地中海棲姫 バカンスmode",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2038,
-    "api_sort_id": 0,
-    "api_name": "深海地中海棲姫 バカンスmode-壊",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2039,
-    "api_sort_id": 0,
-    "api_name": "深海地中海棲姫 バカンスmode-壊",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2040,
-    "api_sort_id": 0,
-    "api_name": "深海地中海棲姫 バカンスmode-壊",
-    "api_yomi": "",
-    "api_stype": 3,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2041,
-    "api_sort_id": 0,
-    "api_name": "欧州装甲空母棲姫",
-    "api_yomi": "",
-    "api_stype": 18,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2042,
-    "api_sort_id": 0,
-    "api_name": "欧州装甲空母棲姫",
-    "api_yomi": "",
-    "api_stype": 18,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2043,
-    "api_sort_id": 0,
-    "api_name": "欧州装甲空母棲姫",
-    "api_yomi": "",
-    "api_stype": 18,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2044,
-    "api_sort_id": 0,
-    "api_name": "欧州装甲空母棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 18,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2045,
-    "api_sort_id": 0,
-    "api_name": "欧州装甲空母棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 18,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2046,
-    "api_sort_id": 0,
-    "api_name": "欧州装甲空母棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 18,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2047,
-    "api_sort_id": 0,
-    "api_name": "飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2048,
-    "api_sort_id": 0,
-    "api_name": "飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2049,
-    "api_sort_id": 0,
-    "api_name": "潜水新棲姫",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 2050,
-    "api_sort_id": 0,
-    "api_name": "駆逐ナ級IIe(量産型)",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 2051,
-    "api_sort_id": 0,
-    "api_name": "駆逐ナ級IIe(量産型)",
-    "api_yomi": "elite",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 2052,
-    "api_sort_id": 0,
-    "api_name": "駆逐ナ級IIe(量産型)",
-    "api_yomi": "flagship",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 2053,
-    "api_sort_id": 0,
-    "api_name": "潜水鮫水鬼",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 2054,
-    "api_sort_id": 0,
-    "api_name": "潜水鮫水鬼",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 2055,
-    "api_sort_id": 0,
-    "api_name": "潜水鮫水鬼",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2056,
-    "api_sort_id": 0,
-    "api_name": "潜水鮫水鬼-壊",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 2057,
-    "api_sort_id": 0,
-    "api_name": "潜水鮫水鬼-壊",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2058,
-    "api_sort_id": 0,
-    "api_name": "潜水鮫水鬼-壊",
-    "api_yomi": "flagship",
-    "api_stype": 13,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2059,
-    "api_sort_id": 0,
-    "api_name": "ヒ船団棲姫",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2060,
-    "api_sort_id": 0,
-    "api_name": "ヒ船団棲姫",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2061,
-    "api_sort_id": 0,
-    "api_name": "ヒ船団棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2062,
-    "api_sort_id": 0,
-    "api_name": "ヒ船団棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2063,
-    "api_sort_id": 0,
-    "api_name": "深海梅棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2064,
-    "api_sort_id": 0,
-    "api_name": "深海梅棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2065,
-    "api_sort_id": 0,
-    "api_name": "深海梅棲姫",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2066,
-    "api_sort_id": 0,
-    "api_name": "深海梅棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2067,
-    "api_sort_id": 0,
-    "api_name": "深海梅棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2068,
-    "api_sort_id": 0,
-    "api_name": "深海梅棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2069,
-    "api_sort_id": 0,
-    "api_name": "横浜岸壁棲姫",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2070,
-    "api_sort_id": 0,
-    "api_name": "横浜岸壁棲姫",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2071,
-    "api_sort_id": 0,
-    "api_name": "横浜岸壁棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2072,
-    "api_sort_id": 0,
-    "api_name": "横浜岸壁棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 7,
-    "api_ctype": 1,
-    "api_soku": 5,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2073,
-    "api_sort_id": 0,
-    "api_name": "深海玉棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2074,
-    "api_sort_id": 0,
-    "api_name": "深海玉棲姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2075,
-    "api_sort_id": 0,
-    "api_name": "深海玉棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2076,
-    "api_sort_id": 0,
-    "api_name": "深海玉棲姫-壊",
-    "api_yomi": "",
-    "api_stype": 2,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2077,
-    "api_sort_id": 0,
-    "api_name": "超重爆飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2078,
-    "api_sort_id": 0,
-    "api_name": "超重爆飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2079,
-    "api_sort_id": 0,
-    "api_name": "超重爆飛行場姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2080,
-    "api_sort_id": 0,
-    "api_name": "防空埋護冬姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 3
-  },
-  {
-    "api_id": 2081,
-    "api_sort_id": 0,
-    "api_name": "防空埋護冬姫",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2082,
-    "api_sort_id": 0,
-    "api_name": "防空埋護冬姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2083,
-    "api_sort_id": 0,
-    "api_name": "防空埋護冬姫-壊",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2084,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫III",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2085,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫III-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2086,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫III",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2087,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫III-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2088,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫III",
-    "api_yomi": "",
-    "api_stype": 10,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2089,
-    "api_sort_id": 0,
-    "api_name": "集積地棲姫III-壊",
-    "api_yomi": "",
-    "api_stype": 9,
-    "api_ctype": 1,
-    "api_soku": 0,
-    "api_slot_num": 4
-  },
-  {
-    "api_id": 2090,
-    "api_sort_id": 0,
-    "api_name": "重巡ネ級改",
-    "api_yomi": "",
-    "api_stype": 5,
-    "api_ctype": 1,
-    "api_soku": 10,
-    "api_slot_num": 4
   }
 ]
