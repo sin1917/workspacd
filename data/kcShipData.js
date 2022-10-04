@@ -1,5 +1,5 @@
 //==============
-// 2022.06.18
+// 2022.10.05
 //==============
 
 api_mst_ship = [
@@ -24585,7 +24585,7 @@ api_mst_ship = [
   {
     "api_id": 396,
     "api_sortno": 1476,
-    "api_sort_id": 32132,
+    "api_sort_id": 32252,
     "api_name": "Gambier Bay改",
     "api_yomi": "ガンビア・ベイ",
     "api_stype": 7,
@@ -24653,7 +24653,7 @@ api_mst_ship = [
   {
     "api_id": 397,
     "api_sortno": 1477,
-    "api_sort_id": 32122,
+    "api_sort_id": 32192,
     "api_name": "Intrepid改",
     "api_yomi": "イントレピッド",
     "api_stype": 11,
@@ -26993,7 +26993,7 @@ api_mst_ship = [
   {
     "api_id": 433,
     "api_sortno": 233,
-    "api_sort_id": 32111,
+    "api_sort_id": 32121,
     "api_name": "Saratoga",
     "api_yomi": "サラトガ",
     "api_stype": 11,
@@ -27318,7 +27318,7 @@ api_mst_ship = [
   {
     "api_id": 438,
     "api_sortno": 238,
-    "api_sort_id": 32112,
+    "api_sort_id": 32122,
     "api_name": "Saratoga改",
     "api_yomi": "サラトガ",
     "api_stype": 11,
@@ -33830,7 +33830,7 @@ api_mst_ship = [
   {
     "api_id": 544,
     "api_sortno": 344,
-    "api_sort_id": 32131,
+    "api_sort_id": 32251,
     "api_name": "Gambier Bay",
     "api_yomi": "ガンビア・ベイ",
     "api_stype": 7,
@@ -33898,7 +33898,7 @@ api_mst_ship = [
   {
     "api_id": 545,
     "api_sortno": 345,
-    "api_sort_id": 32116,
+    "api_sort_id": 32126,
     "api_name": "Saratoga Mk.II",
     "api_yomi": "サラトガ",
     "api_stype": 11,
@@ -34158,7 +34158,7 @@ api_mst_ship = [
   {
     "api_id": 549,
     "api_sortno": 349,
-    "api_sort_id": 32121,
+    "api_sort_id": 32191,
     "api_name": "Intrepid",
     "api_yomi": "イントレピッド",
     "api_stype": 11,
@@ -34223,7 +34223,7 @@ api_mst_ship = [
   {
     "api_id": 550,
     "api_sortno": 350,
-    "api_sort_id": 32117,
+    "api_sort_id": 32127,
     "api_name": "Saratoga Mk.II Mod.2",
     "api_yomi": "サラトガ",
     "api_stype": 18,
@@ -36171,6 +36171,71 @@ api_mst_ship = [
     "api_afterbull": 320,
     "api_fuel_max": 40,
     "api_bull_max": 40,
+    "api_voicef": 1
+  },
+  {
+    "api_id": 582,
+    "api_sortno": 382,
+    "api_sort_id": 15231,
+    "api_name": "夏雲",
+    "api_yomi": "なつぐも",
+    "api_stype": 2,
+    "api_ctype": 18,
+    "api_afterlv": 38,
+    "api_aftershipid": "721",
+    "api_taik": [
+      16,
+      33
+    ],
+    "api_souk": [
+      6,
+      19
+    ],
+    "api_houg": [
+      10,
+      31
+    ],
+    "api_raig": [
+      24,
+      68
+    ],
+    "api_tyku": [
+      9,
+      39
+    ],
+    "api_luck": [
+      6,
+      43
+    ],
+    "api_soku": 10,
+    "api_leng": 1,
+    "api_slot_num": 2,
+    "api_maxeq": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "api_buildtime": 22,
+    "api_broken": [
+      1,
+      1,
+      5,
+      0
+    ],
+    "api_powup": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "api_backs": 4,
+    "api_getmes": "はい？　あ、はい……朝潮型駆逐艦、夏雲です。<br>提督、あの……どうぞよろしく…お願い致します。",
+    "api_afterfuel": 130,
+    "api_afterbull": 180,
+    "api_fuel_max": 15,
+    "api_bull_max": 20,
     "api_voicef": 1
   },
   {
@@ -41901,8 +41966,8 @@ api_mst_ship = [
     "api_yomi": "サミュエル・B・ロバーツ",
     "api_stype": 2,
     "api_ctype": 87,
-    "api_afterlv": 0,
-    "api_aftershipid": "0",
+    "api_afterlv": 78,
+    "api_aftershipid": "920",
     "api_taik": [
       27,
       42
@@ -41952,8 +42017,8 @@ api_mst_ship = [
     ],
     "api_backs": 6,
     "api_getmes": "<br>",
-    "api_afterfuel": 0,
-    "api_afterbull": 0,
+    "api_afterfuel": 413,
+    "api_afterbull": 413,
     "api_fuel_max": 15,
     "api_bull_max": 20,
     "api_voicef": 3
@@ -43391,7 +43456,7 @@ api_mst_ship = [
   {
     "api_id": 707,
     "api_sortno": 458,
-    "api_sort_id": 32136,
+    "api_sort_id": 32256,
     "api_name": "Gambier Bay Mk.II",
     "api_yomi": "ガンビア・ベイ",
     "api_stype": 7,
@@ -44244,8 +44309,8 @@ api_mst_ship = [
     "api_yomi": "はやしお",
     "api_stype": 2,
     "api_ctype": 30,
-    "api_afterlv": 0,
-    "api_aftershipid": "0",
+    "api_afterlv": 75,
+    "api_aftershipid": "915",
     "api_taik": [
       32,
       49
@@ -44295,10 +44360,270 @@ api_mst_ship = [
     ],
     "api_backs": 6,
     "api_getmes": "<br>",
+    "api_afterfuel": 380,
+    "api_afterbull": 460,
+    "api_fuel_max": 15,
+    "api_bull_max": 20,
+    "api_voicef": 3
+  },
+  {
+    "api_id": 721,
+    "api_sortno": 1721,
+    "api_sort_id": 15232,
+    "api_name": "夏雲改",
+    "api_yomi": "なつぐも",
+    "api_stype": 2,
+    "api_ctype": 18,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_taik": [
+      31,
+      49
+    ],
+    "api_souk": [
+      14,
+      49
+    ],
+    "api_houg": [
+      12,
+      52
+    ],
+    "api_raig": [
+      28,
+      78
+    ],
+    "api_tyku": [
+      13,
+      52
+    ],
+    "api_luck": [
+      8,
+      53
+    ],
+    "api_soku": 10,
+    "api_leng": 1,
+    "api_slot_num": 3,
+    "api_maxeq": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "api_buildtime": 22,
+    "api_broken": [
+      1,
+      2,
+      10,
+      0
+    ],
+    "api_powup": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "api_backs": 5,
+    "api_getmes": "<br>",
     "api_afterfuel": 0,
     "api_afterbull": 0,
     "api_fuel_max": 15,
     "api_bull_max": 20,
+    "api_voicef": 3
+  },
+  {
+    "api_id": 722,
+    "api_sortno": 1722,
+    "api_sort_id": 32402,
+    "api_name": "Brooklyn改",
+    "api_yomi": "ブルックリン",
+    "api_stype": 3,
+    "api_ctype": 110,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_taik": [
+      53,
+      67
+    ],
+    "api_souk": [
+      26,
+      67
+    ],
+    "api_houg": [
+      33,
+      77
+    ],
+    "api_raig": [
+      0,
+      39
+    ],
+    "api_tyku": [
+      36,
+      80
+    ],
+    "api_luck": [
+      37,
+      97
+    ],
+    "api_soku": 10,
+    "api_leng": 2,
+    "api_slot_num": 4,
+    "api_maxeq": [
+      0,
+      0,
+      2,
+      4,
+      0
+    ],
+    "api_buildtime": 70,
+    "api_broken": [
+      4,
+      7,
+      17,
+      2
+    ],
+    "api_powup": [
+      2,
+      0,
+      2,
+      2
+    ],
+    "api_backs": 6,
+    "api_getmes": "<br>",
+    "api_afterfuel": 0,
+    "api_afterbull": 0,
+    "api_fuel_max": 35,
+    "api_bull_max": 60,
+    "api_voicef": 3
+  },
+  {
+    "api_id": 723,
+    "api_sortno": 1723,
+    "api_sort_id": 32132,
+    "api_name": "Ranger改",
+    "api_yomi": "レンジャー",
+    "api_stype": 11,
+    "api_ctype": 118,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_taik": [
+      64,
+      84
+    ],
+    "api_souk": [
+      18,
+      58
+    ],
+    "api_houg": [
+      0,
+      47
+    ],
+    "api_raig": [
+      0,
+      0
+    ],
+    "api_tyku": [
+      30,
+      82
+    ],
+    "api_luck": [
+      32,
+      92
+    ],
+    "api_soku": 10,
+    "api_leng": 1,
+    "api_slot_num": 4,
+    "api_maxeq": [
+      28,
+      30,
+      24,
+      4,
+      0
+    ],
+    "api_buildtime": 250,
+    "api_broken": [
+      10,
+      14,
+      27,
+      11
+    ],
+    "api_powup": [
+      0,
+      0,
+      4,
+      3
+    ],
+    "api_backs": 7,
+    "api_getmes": "<br>",
+    "api_afterfuel": 0,
+    "api_afterbull": 0,
+    "api_fuel_max": 65,
+    "api_bull_max": 70,
+    "api_voicef": 3
+  },
+  {
+    "api_id": 724,
+    "api_sortno": 1724,
+    "api_sort_id": 34022,
+    "api_name": "Jean Bart改",
+    "api_yomi": "ジャン・バール",
+    "api_stype": 8,
+    "api_ctype": 79,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_taik": [
+      88,
+      98
+    ],
+    "api_souk": [
+      77,
+      96
+    ],
+    "api_houg": [
+      70,
+      97
+    ],
+    "api_raig": [
+      0,
+      0
+    ],
+    "api_tyku": [
+      24,
+      76
+    ],
+    "api_luck": [
+      22,
+      94
+    ],
+    "api_soku": 10,
+    "api_leng": 3,
+    "api_slot_num": 4,
+    "api_maxeq": [
+      3,
+      3,
+      3,
+      3,
+      0
+    ],
+    "api_buildtime": 300,
+    "api_broken": [
+      12,
+      19,
+      39,
+      4
+    ],
+    "api_powup": [
+      4,
+      0,
+      2,
+      4
+    ],
+    "api_backs": 8,
+    "api_getmes": "<br>",
+    "api_afterfuel": 0,
+    "api_afterbull": 0,
+    "api_fuel_max": 100,
+    "api_bull_max": 130,
     "api_voicef": 3
   },
   {
@@ -45224,6 +45549,71 @@ api_mst_ship = [
     "api_voicef": 1
   },
   {
+    "api_id": 896,
+    "api_sortno": 497,
+    "api_sort_id": 32401,
+    "api_name": "Brooklyn",
+    "api_yomi": "ブルックリン",
+    "api_stype": 3,
+    "api_ctype": 110,
+    "api_afterlv": 45,
+    "api_aftershipid": "722",
+    "api_taik": [
+      38,
+      56
+    ],
+    "api_souk": [
+      16,
+      39
+    ],
+    "api_houg": [
+      29,
+      59
+    ],
+    "api_raig": [
+      0,
+      33
+    ],
+    "api_tyku": [
+      26,
+      70
+    ],
+    "api_luck": [
+      17,
+      77
+    ],
+    "api_soku": 10,
+    "api_leng": 2,
+    "api_slot_num": 3,
+    "api_maxeq": [
+      0,
+      1,
+      3,
+      0,
+      0
+    ],
+    "api_buildtime": 70,
+    "api_broken": [
+      3,
+      3,
+      13,
+      2
+    ],
+    "api_powup": [
+      2,
+      0,
+      2,
+      2
+    ],
+    "api_backs": 5,
+    "api_getmes": "It’s lovely to meet you<br>あたしが、Brooklyn級のnameship、<br>Brooklynよ！　何？　文句……ないよね！",
+    "api_afterfuel": 480,
+    "api_afterbull": 400,
+    "api_fuel_max": 35,
+    "api_bull_max": 55,
+    "api_voicef": 1
+  },
+  {
     "api_id": 900,
     "api_sortno": 500,
     "api_sort_id": 25051,
@@ -45629,11 +46019,11 @@ api_mst_ship = [
     ],
     "api_souk": [
       73,
-      90
+      91
     ],
     "api_houg": [
       78,
-      96
+      95
     ],
     "api_raig": [
       0,
@@ -45641,11 +46031,11 @@ api_mst_ship = [
     ],
     "api_tyku": [
       28,
-      90
+      92
     ],
     "api_luck": [
       30,
-      99
+      98
     ],
     "api_soku": 5,
     "api_leng": 3,
@@ -45677,6 +46067,71 @@ api_mst_ship = [
     "api_fuel_max": 90,
     "api_bull_max": 130,
     "api_voicef": 1
+  },
+  {
+    "api_id": 915,
+    "api_sortno": 515,
+    "api_sort_id": 16056,
+    "api_name": "早潮改二",
+    "api_yomi": "はやしお",
+    "api_stype": 2,
+    "api_ctype": 30,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_taik": [
+      33,
+      55
+    ],
+    "api_souk": [
+      14,
+      52
+    ],
+    "api_houg": [
+      17,
+      67
+    ],
+    "api_raig": [
+      30,
+      87
+    ],
+    "api_tyku": [
+      19,
+      63
+    ],
+    "api_luck": [
+      15,
+      70
+    ],
+    "api_soku": 10,
+    "api_leng": 1,
+    "api_slot_num": 3,
+    "api_maxeq": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "api_buildtime": 24,
+    "api_broken": [
+      1,
+      2,
+      10,
+      0
+    ],
+    "api_powup": [
+      2,
+      2,
+      1,
+      1
+    ],
+    "api_backs": 7,
+    "api_getmes": "<br>",
+    "api_afterfuel": 0,
+    "api_afterbull": 0,
+    "api_fuel_max": 15,
+    "api_bull_max": 20,
+    "api_voicef": 3
   },
   {
     "api_id": 916,
@@ -45759,23 +46214,23 @@ api_mst_ship = [
     ],
     "api_souk": [
       83,
-      99
+      98
     ],
     "api_houg": [
       80,
-      105
+      106
     ],
     "api_raig": [
       0,
       0
     ],
     "api_tyku": [
-      36,
-      100
+      37,
+      102
     ],
     "api_luck": [
-      40,
-      110
+      38,
+      108
     ],
     "api_soku": 5,
     "api_leng": 3,
@@ -45806,6 +46261,597 @@ api_mst_ship = [
     "api_afterbull": 0,
     "api_fuel_max": 95,
     "api_bull_max": 165,
+    "api_voicef": 3
+  },
+  {
+    "api_id": 920,
+    "api_sortno": 520,
+    "api_sort_id": 32616,
+    "api_name": "Samuel B.Roberts Mk.II",
+    "api_yomi": "サミュエル・B・ロバーツ",
+    "api_stype": 2,
+    "api_ctype": 87,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_taik": [
+      29,
+      45
+    ],
+    "api_souk": [
+      13,
+      47
+    ],
+    "api_houg": [
+      10,
+      52
+    ],
+    "api_raig": [
+      24,
+      70
+    ],
+    "api_tyku": [
+      29,
+      68
+    ],
+    "api_luck": [
+      40,
+      87
+    ],
+    "api_soku": 10,
+    "api_leng": 1,
+    "api_slot_num": 3,
+    "api_maxeq": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "api_buildtime": 9,
+    "api_broken": [
+      1,
+      2,
+      8,
+      1
+    ],
+    "api_powup": [
+      1,
+      2,
+      2,
+      0
+    ],
+    "api_backs": 7,
+    "api_getmes": "<br>",
+    "api_afterfuel": 0,
+    "api_afterbull": 0,
+    "api_fuel_max": 15,
+    "api_bull_max": 20,
+    "api_voicef": 3
+  },
+  {
+    "api_id": 921,
+    "api_sortno": 521,
+    "api_sort_id": 21181,
+    "api_name": "鵜来",
+    "api_yomi": "うくる",
+    "api_stype": 1,
+    "api_ctype": 117,
+    "api_afterlv": 43,
+    "api_aftershipid": "926",
+    "api_taik": [
+      9,
+      17
+    ],
+    "api_souk": [
+      4,
+      16
+    ],
+    "api_houg": [
+      4,
+      18
+    ],
+    "api_raig": [
+      0,
+      0
+    ],
+    "api_tyku": [
+      9,
+      37
+    ],
+    "api_luck": [
+      35,
+      79
+    ],
+    "api_soku": 5,
+    "api_leng": 1,
+    "api_slot_num": 2,
+    "api_maxeq": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "api_buildtime": 9,
+    "api_broken": [
+      1,
+      1,
+      2,
+      0
+    ],
+    "api_powup": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "api_backs": 4,
+    "api_getmes": "鵜来型海防艦、その一番艦、鵜来です！<br>戦闘力をなるべく削らず、対潜戦闘力と生産性を高めた<br>苦心の艦級です。提督、私、末永く頑張ります！",
+    "api_afterfuel": 40,
+    "api_afterbull": 110,
+    "api_fuel_max": 10,
+    "api_bull_max": 10,
+    "api_voicef": 1
+  },
+  {
+    "api_id": 925,
+    "api_sortno": 525,
+    "api_sort_id": 32231,
+    "api_name": "Langley",
+    "api_yomi": "ラングレー",
+    "api_stype": 7,
+    "api_ctype": 116,
+    "api_afterlv": 50,
+    "api_aftershipid": "930",
+    "api_taik": [
+      31,
+      41
+    ],
+    "api_souk": [
+      14,
+      30
+    ],
+    "api_houg": [
+      14,
+      32
+    ],
+    "api_raig": [
+      0,
+      0
+    ],
+    "api_tyku": [
+      32,
+      52
+    ],
+    "api_tais": [
+      16
+    ],
+    "api_luck": [
+      27,
+      87
+    ],
+    "api_soku": 10,
+    "api_leng": 2,
+    "api_slot_num": 3,
+    "api_maxeq": [
+      23,
+      7,
+      2,
+      0,
+      0
+    ],
+    "api_buildtime": 70,
+    "api_broken": [
+      3,
+      4,
+      14,
+      4
+    ],
+    "api_powup": [
+      0,
+      0,
+      3,
+      2
+    ],
+    "api_backs": 5,
+    "api_getmes": "インディペンデンス級航空母艦、Langleyだ。<br>ああん？　そっちのラングレーじゃねーよ！<br>誰が給炭艦じゃ！　Meのベースは新鋭軽巡だぜ！",
+    "api_afterfuel": 480,
+    "api_afterbull": 1080,
+    "api_fuel_max": 35,
+    "api_bull_max": 40,
+    "api_voicef": 1
+  },
+  {
+    "api_id": 926,
+    "api_sortno": 526,
+    "api_sort_id": 21182,
+    "api_name": "鵜来改",
+    "api_yomi": "うくる",
+    "api_stype": 1,
+    "api_ctype": 117,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_taik": [
+      17,
+      28
+    ],
+    "api_souk": [
+      6,
+      33
+    ],
+    "api_houg": [
+      4,
+      34
+    ],
+    "api_raig": [
+      0,
+      0
+    ],
+    "api_tyku": [
+      17,
+      60
+    ],
+    "api_luck": [
+      38,
+      99
+    ],
+    "api_soku": 5,
+    "api_leng": 1,
+    "api_slot_num": 3,
+    "api_maxeq": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "api_buildtime": 9,
+    "api_broken": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "api_powup": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "api_backs": 5,
+    "api_getmes": "<br>",
+    "api_afterfuel": 0,
+    "api_afterbull": 0,
+    "api_fuel_max": 10,
+    "api_bull_max": 10,
+    "api_voicef": 1
+  },
+  {
+    "api_id": 930,
+    "api_sortno": 530,
+    "api_sort_id": 32232,
+    "api_name": "Langley改",
+    "api_yomi": "ラングレー",
+    "api_stype": 7,
+    "api_ctype": 116,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_taik": [
+      44,
+      70
+    ],
+    "api_souk": [
+      22,
+      60
+    ],
+    "api_houg": [
+      18,
+      40
+    ],
+    "api_raig": [
+      0,
+      0
+    ],
+    "api_tyku": [
+      34,
+      58
+    ],
+    "api_tais": [
+      18
+    ],
+    "api_luck": [
+      35,
+      97
+    ],
+    "api_soku": 10,
+    "api_leng": 2,
+    "api_slot_num": 4,
+    "api_maxeq": [
+      24,
+      16,
+      4,
+      1,
+      0
+    ],
+    "api_buildtime": 70,
+    "api_broken": [
+      3,
+      6,
+      21,
+      6
+    ],
+    "api_powup": [
+      0,
+      0,
+      3,
+      3
+    ],
+    "api_backs": 6,
+    "api_getmes": "<br>",
+    "api_afterfuel": 0,
+    "api_afterbull": 0,
+    "api_fuel_max": 40,
+    "api_bull_max": 45,
+    "api_voicef": 3
+  },
+  {
+    "api_id": 931,
+    "api_sortno": 531,
+    "api_sort_id": 32131,
+    "api_name": "Ranger",
+    "api_yomi": "レンジャー",
+    "api_stype": 11,
+    "api_ctype": 118,
+    "api_afterlv": 55,
+    "api_aftershipid": "723",
+    "api_taik": [
+      48,
+      78
+    ],
+    "api_souk": [
+      17,
+      39
+    ],
+    "api_houg": [
+      0,
+      27
+    ],
+    "api_raig": [
+      0,
+      0
+    ],
+    "api_tyku": [
+      28,
+      70
+    ],
+    "api_luck": [
+      20,
+      72
+    ],
+    "api_soku": 10,
+    "api_leng": 1,
+    "api_slot_num": 4,
+    "api_maxeq": [
+      24,
+      24,
+      24,
+      4,
+      0
+    ],
+    "api_buildtime": 250,
+    "api_broken": [
+      6,
+      11,
+      23,
+      7
+    ],
+    "api_powup": [
+      0,
+      0,
+      4,
+      3
+    ],
+    "api_backs": 6,
+    "api_getmes": "Nice to meet you. <br>Admiral?  お会いできて光栄です。<br>私 CV4 USS Ranger と申します。",
+    "api_afterfuel": 1000,
+    "api_afterbull": 480,
+    "api_fuel_max": 50,
+    "api_bull_max": 55,
+    "api_voicef": 1
+  },
+  {
+    "api_id": 933,
+    "api_sortno": 533,
+    "api_sort_id": 32081,
+    "api_name": "Massachusetts",
+    "api_yomi": "マサチューセッツ",
+    "api_stype": 8,
+    "api_ctype": 102,
+    "api_afterlv": 48,
+    "api_aftershipid": "938",
+    "api_taik": [
+      79,
+      92
+    ],
+    "api_souk": [
+      77,
+      92
+    ],
+    "api_houg": [
+      80,
+      101
+    ],
+    "api_raig": [
+      0,
+      0
+    ],
+    "api_tyku": [
+      40,
+      90
+    ],
+    "api_luck": [
+      18,
+      88
+    ],
+    "api_soku": 10,
+    "api_leng": 3,
+    "api_slot_num": 4,
+    "api_maxeq": [
+      0,
+      0,
+      3,
+      3,
+      0
+    ],
+    "api_buildtime": 400,
+    "api_broken": [
+      18,
+      32,
+      50,
+      10
+    ],
+    "api_powup": [
+      5,
+      0,
+      2,
+      5
+    ],
+    "api_backs": 7,
+    "api_getmes": "Nice to meet you？<br>My name is Massachusetts<br>よろしく、提督さん！",
+    "api_afterfuel": 2700,
+    "api_afterbull": 2400,
+    "api_fuel_max": 150,
+    "api_bull_max": 190,
+    "api_voicef": 1
+  },
+  {
+    "api_id": 935,
+    "api_sortno": 535,
+    "api_sort_id": 34021,
+    "api_name": "Jean Bart",
+    "api_yomi": "ジャン・バール",
+    "api_stype": 8,
+    "api_ctype": 79,
+    "api_afterlv": 45,
+    "api_aftershipid": "724",
+    "api_taik": [
+      84,
+      93
+    ],
+    "api_souk": [
+      70,
+      89
+    ],
+    "api_houg": [
+      61,
+      95
+    ],
+    "api_raig": [
+      0,
+      0
+    ],
+    "api_tyku": [
+      18,
+      68
+    ],
+    "api_luck": [
+      15,
+      75
+    ],
+    "api_soku": 10,
+    "api_leng": 3,
+    "api_slot_num": 4,
+    "api_maxeq": [
+      3,
+      3,
+      3,
+      3,
+      0
+    ],
+    "api_buildtime": 300,
+    "api_broken": [
+      11,
+      17,
+      36,
+      4
+    ],
+    "api_powup": [
+      4,
+      0,
+      2,
+      3
+    ],
+    "api_backs": 7,
+    "api_getmes": "Bonjour？  Enchantée  私がRichelieuの妹、<br>Jean Bart！  Pardon……聞いてる？<br>まあ……いいか。",
+    "api_afterfuel": 2400,
+    "api_afterbull": 1760,
+    "api_fuel_max": 100,
+    "api_bull_max": 125,
+    "api_voicef": 1
+  },
+  {
+    "api_id": 938,
+    "api_sortno": 538,
+    "api_sort_id": 32082,
+    "api_name": "Massachusetts改",
+    "api_yomi": "マサチューセッツ",
+    "api_stype": 8,
+    "api_ctype": 102,
+    "api_afterlv": 0,
+    "api_aftershipid": "0",
+    "api_taik": [
+      91,
+      101
+    ],
+    "api_souk": [
+      86,
+      109
+    ],
+    "api_houg": [
+      84,
+      108
+    ],
+    "api_raig": [
+      0,
+      0
+    ],
+    "api_tyku": [
+      60,
+      108
+    ],
+    "api_luck": [
+      45,
+      125
+    ],
+    "api_soku": 10,
+    "api_leng": 3,
+    "api_slot_num": 4,
+    "api_maxeq": [
+      0,
+      2,
+      3,
+      3,
+      0
+    ],
+    "api_buildtime": 400,
+    "api_broken": [
+      24,
+      40,
+      70,
+      20
+    ],
+    "api_powup": [
+      5,
+      0,
+      3,
+      5
+    ],
+    "api_backs": 8,
+    "api_getmes": "<br>",
+    "api_afterfuel": 0,
+    "api_afterbull": 0,
+    "api_fuel_max": 160,
+    "api_bull_max": 200,
     "api_voicef": 3
   },
   {
