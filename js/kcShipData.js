@@ -1,5 +1,5 @@
 //==============
-// 2022.10.13
+// 2022.12.24
 //==============
 
 api_mst_ship = [
@@ -702,8 +702,10 @@ api_mst_ship = [
 {"api_id": 888, "api_sortno": 488, "api_sort_id": 4036, "api_name": "龍鳳改二"},
 {"api_id": 889, "api_sortno": 489, "api_sort_id": 5026, "api_name": "雲鷹改二"},
 {"api_id": 893, "api_sortno": 1493, "api_sort_id": 33522, "api_name": "Janus改"},
+{"api_id": 894, "api_sortno": 494, "api_sort_id": 4016, "api_name": "鳳翔改二"},
 {"api_id": 895, "api_sortno": 495, "api_sort_id": 21111, "api_name": "昭南"},
 {"api_id": 896, "api_sortno": 497, "api_sort_id": 32401, "api_name": "Brooklyn"},
+{"api_id": 899, "api_sortno": 499, "api_sort_id": 4017, "api_name": "鳳翔改二戦"},
 {"api_id": 900, "api_sortno": 500, "api_sort_id": 25051, "api_name": "山汐丸"},
 {"api_id": 903, "api_sortno": 503, "api_sort_id": 14156, "api_name": "天霧改二"},
 {"api_id": 905, "api_sortno": 505, "api_sort_id": 21051, "api_name": "倉橋"},
